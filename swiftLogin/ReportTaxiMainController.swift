@@ -2,8 +2,8 @@
 //  ReportTaxiMainController.swift
 //  swiftLogin
 //
-//  Created by Fang on 1/19/15.
-//  Copyright (c) 2015 iOS-Blog. All rights reserved.
+//  Created by Jun Lee on 1/19/15.
+//  Copyright (c) 2015  Jun Lee. All rights reserved.
 //
 
 import UIKit

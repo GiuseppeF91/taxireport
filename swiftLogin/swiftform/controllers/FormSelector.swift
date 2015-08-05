@@ -2,8 +2,8 @@
 //  FormSelector.swift
 //  SwiftForms
 //
-//  Created by Miguel Ángel Ortuño Ortuño on 23/08/14.
-//  Copyright (c) 2014 Miguel Angel Ortuño. All rights reserved.
+//  Created by Jun Lee on 23/08/14.
+//  Copyright (c) 2014 Jun Lee. All rights reserved.
 //
 
 import UIKit

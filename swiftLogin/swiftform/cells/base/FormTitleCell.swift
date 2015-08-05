@@ -2,8 +2,8 @@
 //  FormTitleCell.swift
 //  SwiftForms
 //
-//  Created by Miguel Ángel Ortuño Ortuño on 13/11/14.
-//  Copyright (c) 2014 Miguel Angel Ortuño. All rights reserved.
+//  Created by Jun Lee on 13/11/14.
+//  Copyright (c) 2014 Jun Lee. All rights reserved.
 //
 
 import UIKit

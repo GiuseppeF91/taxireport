@@ -1,0 +1,131 @@
+[
+  {
+    "category": "Fails to display a license",
+    "count": "461",
+    "percent": "1.4",
+    "charge_codes": [
+      "54-23(A)(2)",
+      "54-13(A)(4)(I)"
+    ]
+  },
+  {
+    "category": "Taxi has broken or missing equipment",
+    "count": "146",
+    "percent": "< 1",
+    "charge_codes": [
+      "54-17(E)(2)"
+    ]
+  },
+  {
+    "category": "Taxi is dirty",
+    "count": "45",
+    "percent": "< 1",
+    "charge_codes": [
+      "54-15(B)",
+      "54-22(D)"
+    ]
+  },
+  {
+    "category": "Reckless or unsafe if you were NOT the passenger",
+    "count": "5065",
+    "percent": "15.7",
+    "charge_codes": [
+      "54-13(A)(2)",
+      "54-14(A)",
+      "54-13(A)(1)",
+      "54-13(A)(3)(XII)",
+      "55-13(A)(1)",
+      "54-13(A)(3)(VI)"
+    ]
+  },
+  {
+    "category": "Reckless or unsafe if you were the passenger",
+    "count": "5065",
+    "percent": "15.7",
+    "charge_codes": [
+      "54-13(A)(2)",
+      "54-14(A)",
+      "54-13(A)(1)",
+      "54-13(A)(3)(XII)",
+      "55-13(A)(1)",
+      "54-13(A)(3)(VI)"
+    ]
+  },
+  {
+    "category": "Driver is rude",
+    "count": "4497",
+    "percent": "13.9",
+    "charge_codes": [
+      "54-15(L)",
+      "54-12(F)",
+      "54-12(G)",
+      "55-12(K)",
+      "59B-13(K)"
+    ]
+  },
+  {
+    "category": "Overcharges, demands tips, or does not use E-Z Pass",
+    "count": "2045",
+    "percent": "6.3",
+    "charge_codes": [
+      "2-34A",
+      "54-17(A)(1)",
+      "54-17(A)(5)",
+      "54-15(F)(2)",
+      "54-15(F)(1)",
+      "54-15(F)(4)"
+    ]
+  },
+  {
+    "category": "Refused a credit card",
+    "count": "634",
+    "percent": "2.0",
+    "charge_codes": [
+      "54-17(E)(1)"
+    ]
+  },
+  {
+    "category": "Refuses passenger requests",
+    "count": "596",
+    "percent": "1.8",
+    "charge_codes": [
+      "54-16(G)"
+    ]
+  },
+  {
+    "category": "Refuses to pick up a passenger",
+    "count": "10513",
+    "percent": "32.6",
+    "charge_codes": [
+      "54-20(A)(1)",
+      "54-15(M)(1)",
+      "54-20(A)(4)",
+      "54-15(D)(1)"
+    ]
+  },
+  {
+    "category": "Report other fare problems when using a credit card.",
+    "count": "27",
+    "percent": "< 1",
+    "charge_codes": [
+      "54-17(F)"
+    ]
+  },
+  {
+    "category": "Takes a long route or refuses route requests",
+    "count": "1597",
+    "percent": "5.0",
+    "charge_codes": [
+      "54-16(A)"
+    ]
+  },
+  {
+    "category": "Used a cell phone while driving",
+    "count": "1111",
+    "percent": "3.4",
+    "charge_codes": [
+      "54-14(E)(1)",
+      "55-14(G)(1)"
+    ]
+  }
+]

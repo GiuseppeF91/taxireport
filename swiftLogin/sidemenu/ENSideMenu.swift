@@ -3,7 +3,7 @@
 //  SwiftSideMenu
 //
 //  Created by Evgeny on 24.07.14.
-//  Copyright (c) 2014 Evgeny Nazarov. All rights reserved.
+//  Copyright (c) 2014 Jun Lee. All rights reserved.
 //
 
 import UIKit

@@ -512,13 +512,6 @@
 			name = viewcontroller;
 			sourceTree = "<group>";
 		};
-		3285E2ED1A77670900C66DA1 /* xib */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = xib;
-			sourceTree = "<group>";
-		};
 		32CD29D11A6CAF7F009DD4CC /* sidemenu */ = {
 			isa = PBXGroup;
 			children = (
@@ -652,7 +645,7 @@
 				32CD29F51A6CE787009DD4CC /* ReportTaxi-Bridging-Header.h */,
 				320909D71A6AB7C70036AC17 /* framework */,
 				C49A1CF71A26AC53008E8BB1 /* parseBridge.m */,
-				C49A1CAF1A26AA05008E8BB1 /* swiftLogin */,
+				C49A1CAF1A26AA05008E8BB1 /* taxireport */,
 				C49A1CC81A26AA06008E8BB1 /* swiftLoginTests */,
 				C49A1CAE1A26AA05008E8BB1 /* Products */,
 				C49A1CED1A26AC2D008E8BB1 /* parse-library-1.5.0 */,
@@ -670,10 +663,9 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		C49A1CAF1A26AA05008E8BB1 /* swiftLogin */ = {
+		C49A1CAF1A26AA05008E8BB1 /* taxireport */ = {
 			isa = PBXGroup;
 			children = (
-				3285E2ED1A77670900C66DA1 /* xib */,
 				3262795E1A6E5D2A006870E4 /* viewcontroller */,
 				32CD29D61A6CB1D7009DD4CC /* resource */,
 				32CD29D11A6CAF7F009DD4CC /* sidemenu */,
@@ -685,6 +677,7 @@
 				C49A1CB41A26AA06008E8BB1 /* swiftLogin.xcdatamodeld */,
 				C49A1CB01A26AA05008E8BB1 /* Supporting Files */,
 			);
+			name = taxireport;
 			path = swiftLogin;
 			sourceTree = "<group>";
 		};

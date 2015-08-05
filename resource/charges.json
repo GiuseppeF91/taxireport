@@ -1,0 +1,4929 @@
+[
+  {
+    "id": "7",
+    "charge_code": "2-34A \n2-35A \n2-36B",
+    "chapter": "2",
+    "part": "34",
+    "subpart": "Overcharges Prohibited.",
+    "section": "A",
+    "subsection": "A driver shall not charge or attempt to charge a fare above the approved rates, as provided by these rules. A driver shall not impose or attempt to impose any additional charge for transporting a person with a disability, a service animal accompanying a person with a disability or a wheelchair or other mobility aid.",
+    "paragraph": "",
+    "subparagraph": "",
+    "clause": "",
+    "subclause": "",
+    "description": "A driver shall not charge or attempt to charge a fare above the approved rates, as provided by these rules.",
+    "penalty": "",
+    "min_fine": "350",
+    "max_fine": "500",
+    "points": "0",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/drivrules.pdf",
+    "tlc_category": "Overcharges, demands tips, or does not use E-Z Pass",
+    "violations": {
+      "total_violations": "8893",
+      "consumer_complaints_2012": "1",
+      "consumer_complaints_percentage_2012": "< 1",
+      "consumer_complaints_2013": "0",
+      "consumer_complaints_percentage_2013": "< 1",
+      "complaints_2012": "8893",
+      "complaints_percentage_2012": "16.0",
+      "complaints_2013": "0",
+      "complaints_percentage_2013": "< 1",
+      "consumer_complaints_percentage_pay_summons": "0",
+      "consumer_complaints_percentage_trial": "100",
+      "consumer_complaints_percentage_guilty": "0"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "TENPA,JAMYANG,G",
+        "driver_license": "5247731",
+        "medallion": "6D48",
+        "count_of_violations": "164"
+      },
+      {
+        "driver_name": "MUKUL,AM",
+        "driver_license": "459475",
+        "medallion": "8G22",
+        "count_of_violations": "160"
+      },
+      {
+        "driver_name": "WARRIECH,CHAUDHRY,Z",
+        "driver_license": "5123414",
+        "medallion": "2D47",
+        "count_of_violations": "159"
+      },
+      {
+        "driver_name": "AGNIMAN,NIAMKE",
+        "driver_license": "456107",
+        "medallion": "8F79",
+        "count_of_violations": "146"
+      },
+      {
+        "driver_name": "MASUD,MD",
+        "driver_license": "5009410",
+        "medallion": "1L69",
+        "count_of_violations": "144"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "7P75",
+        "medallion_owner": "GREENLEAF HACKING CORP.",
+        "count_of_violations": "218",
+        "number_of_drivers": "2"
+      },
+      {
+        "medallion": "9G64",
+        "medallion_owner": "BIRD TRANS CORP",
+        "count_of_violations": "194",
+        "number_of_drivers": "2"
+      },
+      {
+        "medallion": "6D48",
+        "medallion_owner": "ROBERTS, WELDON V.",
+        "count_of_violations": "164",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "8G22",
+        "medallion_owner": "GRANJAN CAB CORP",
+        "count_of_violations": "160",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "2D47",
+        "medallion_owner": "KUMAR,NAVEEN",
+        "count_of_violations": "159",
+        "number_of_drivers": "1"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "GREENLEAF HACKING CORP.",
+        "count_of_violations": "218",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "40"
+      },
+      {
+        "medallion_owner": "BIRD TRANS CORP",
+        "count_of_violations": "194",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "50"
+      },
+      {
+        "medallion_owner": "ROBERTS, WELDON V.",
+        "count_of_violations": "164",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      },
+      {
+        "medallion_owner": "GRANJAN CAB CORP",
+        "count_of_violations": "160",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "17"
+      },
+      {
+        "medallion_owner": "KUMAR,NAVEEN",
+        "count_of_violations": "159",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "charge_code": "54-12(F)",
+    "chapter": "54",
+    "part": "12",
+    "subpart": "Comply with Laws  Proper Conduct",
+    "section": "F",
+    "subsection": "Threats, Harassment, Abuse. While performing the duties and responsibilities of a Licensee, a Licensee must not threaten, harass, or abuse any person, and must not distract or attempt to distract any Service Animal.",
+    "paragraph": "",
+    "subparagraph": "",
+    "clause": "",
+    "subclause": "",
+    "description": "Threats, Harassment, Abuse.",
+    "penalty": "Fine: $350-$1,000 and/or suspension up to 30 days or revocation",
+    "min_fine": "350",
+    "max_fine": "1000",
+    "points": "3",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch54.pdf",
+    "tlc_category": "Is rude",
+    "violations": {
+      "total_violations": "1558",
+      "consumer_complaints_2012": "616",
+      "consumer_complaints_percentage_2012": "4.4",
+      "consumer_complaints_2013": "668",
+      "consumer_complaints_percentage_2013": "3.7",
+      "complaints_2012": "710",
+      "complaints_percentage_2012": "1.3",
+      "complaints_2013": "848",
+      "complaints_percentage_2013": "1.6",
+      "consumer_complaints_percentage_pay_summons": "21",
+      "consumer_complaints_percentage_trial": "62",
+      "consumer_complaints_percentage_guilty": "49"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "KONE,KARIM",
+        "driver_license": "5142904",
+        "medallion": "5L34",
+        "count_of_violations": "8"
+      },
+      {
+        "driver_name": "UDDIN,MOHAMMED,SHOIB",
+        "driver_license": "5146820",
+        "medallion": "9H89",
+        "count_of_violations": "5"
+      },
+      {
+        "driver_name": "AHMAD,RAFIQUE",
+        "driver_license": "5084749",
+        "medallion": "2F85",
+        "count_of_violations": "5"
+      },
+      {
+        "driver_name": "HAQ,MAZHAR,UL",
+        "driver_license": "5150830",
+        "medallion": "2F37",
+        "count_of_violations": "5"
+      },
+      {
+        "driver_name": "IBRAHIM,HESHAM,M",
+        "driver_license": "5195088",
+        "medallion": "7H48",
+        "count_of_violations": "4"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "5L34",
+        "medallion_owner": "SKOAL TAXI INC",
+        "count_of_violations": "9",
+        "number_of_drivers": "2"
+      },
+      {
+        "medallion": "1L55",
+        "medallion_owner": "COFFER SERVICE CO INC",
+        "count_of_violations": "8",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "9H89",
+        "medallion_owner": "NAFPAKTOS INC",
+        "count_of_violations": "5",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "2F37",
+        "medallion_owner": "P&amp;S MAHARAJ INC.",
+        "count_of_violations": "5",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "2F85",
+        "medallion_owner": "MERLAIN, JACQUES",
+        "count_of_violations": "5",
+        "number_of_drivers": "1"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "SKOAL TAXI INC",
+        "count_of_violations": "9",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "29"
+      },
+      {
+        "medallion_owner": "COFFER SERVICE CO INC",
+        "count_of_violations": "8",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "11"
+      },
+      {
+        "medallion_owner": "NAFPAKTOS INC",
+        "count_of_violations": "5",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "50"
+      },
+      {
+        "medallion_owner": "MERLAIN, JACQUES",
+        "count_of_violations": "5",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      },
+      {
+        "medallion_owner": "P&amp;S MAHARAJ INC.",
+        "count_of_violations": "5",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "20"
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "charge_code": "54-12(G)",
+    "chapter": "54",
+    "part": "12",
+    "subpart": "Comply with Laws  Proper Conduct",
+    "section": "G",
+    "subsection": "Use or Threat of Physical Force. While performing the duties and responsibilities of a Licensee or any act in connection with those duties, a Licensee must not use or attempt to use any physical force against a person or Service Animal.",
+    "paragraph": "",
+    "subparagraph": "",
+    "clause": "",
+    "subclause": "",
+    "description": "Use or Threat of Physical Force.",
+    "penalty": "Fine: $500-$1,500 and/or suspension up to 60 days or revocation",
+    "min_fine": "500",
+    "max_fine": "1500",
+    "points": "4",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch54.pdf",
+    "tlc_category": "Is rude",
+    "violations": {
+      "total_violations": "268",
+      "consumer_complaints_2012": "144",
+      "consumer_complaints_percentage_2012": "1.0",
+      "consumer_complaints_2013": "97",
+      "consumer_complaints_percentage_2013": "< 1",
+      "complaints_2012": "149",
+      "complaints_percentage_2012": "< 1",
+      "complaints_2013": "119",
+      "complaints_percentage_2013": "< 1",
+      "consumer_complaints_percentage_pay_summons": "7",
+      "consumer_complaints_percentage_trial": "81",
+      "consumer_complaints_percentage_guilty": "27"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "BASHER,KHANDOKER,A",
+        "driver_license": "5314761",
+        "medallion": "8E56",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "ALI,MOHAMMAD",
+        "driver_license": "435189",
+        "medallion": "3M94",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "ROMULUS,JACQUES",
+        "driver_license": "425319",
+        "medallion": "3B84",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "IBRAHIM,HESHAM,M",
+        "driver_license": "5195088",
+        "medallion": "7H48",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "RAACH,WALID",
+        "driver_license": "5300396",
+        "medallion": "3F40",
+        "count_of_violations": "2"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "3M94",
+        "medallion_owner": "POTATO CAB CORP",
+        "count_of_violations": "3",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "7H48",
+        "medallion_owner": "PRO CAB CORP",
+        "count_of_violations": "3",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "8E56",
+        "medallion_owner": "KRISDAVID LLC",
+        "count_of_violations": "3",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "3B84",
+        "medallion_owner": "ULYSSE,EDRICE",
+        "count_of_violations": "3",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "3F66",
+        "medallion_owner": "BEAUVAIS,JACQUES,Y",
+        "count_of_violations": "2",
+        "number_of_drivers": "1"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "KRISDAVID LLC",
+        "count_of_violations": "3",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "25"
+      },
+      {
+        "medallion_owner": "POTATO CAB CORP",
+        "count_of_violations": "3",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "20"
+      },
+      {
+        "medallion_owner": "PRO CAB CORP",
+        "count_of_violations": "3",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "13"
+      },
+      {
+        "medallion_owner": "ULYSSE,EDRICE",
+        "count_of_violations": "3",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "50"
+      },
+      {
+        "medallion_owner": "VIVALDI TRANSIT INC",
+        "count_of_violations": "2",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "20"
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "charge_code": "54-13(A)(1)",
+    "chapter": "54",
+    "part": "13",
+    "subpart": "Comply with Laws  Traffic Laws & Miscellaneous",
+    "section": "A",
+    "subsection": "Comply with Traffic Laws. Taxicab Drivers (and any authorized Driver of a Street Hail Livery, while driving a Street Hail Livery) must comply with all applicable traffic laws, rules, and regulations.",
+    "paragraph": "1",
+    "subparagraph": "Laws, rules or regulations governing stationary vehicles.",
+    "clause": "",
+    "subclause": "",
+    "description": "Comply with Traffic Laws (stationary)",
+    "penalty": "Fine: $100 if plead guilty before a hearing; $200 if found guilty following a hearing.",
+    "min_fine": "100",
+    "max_fine": "200",
+    "points": "0",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch54.pdf",
+    "tlc_category": "Is reckless or unsafe if you were the passenger",
+    "violations": {
+      "total_violations": "2863",
+      "consumer_complaints_2012": "264",
+      "consumer_complaints_percentage_2012": "1.9",
+      "consumer_complaints_2013": "312",
+      "consumer_complaints_percentage_2013": "1.7",
+      "complaints_2012": "1321",
+      "complaints_percentage_2012": "2.4",
+      "complaints_2013": "1542",
+      "complaints_percentage_2013": "2.9",
+      "consumer_complaints_percentage_pay_summons": "43",
+      "consumer_complaints_percentage_trial": "35",
+      "consumer_complaints_percentage_guilty": "81"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "OSSEI-BOATING,JOHN",
+        "driver_license": "478881",
+        "medallion": "2L89",
+        "count_of_violations": "22"
+      },
+      {
+        "driver_name": "MURRY,YOA,S",
+        "driver_license": "451567",
+        "medallion": "6F17",
+        "count_of_violations": "14"
+      },
+      {
+        "driver_name": "HASSAN,ZAMIL",
+        "driver_license": "479824",
+        "medallion": "5P90",
+        "count_of_violations": "10"
+      },
+      {
+        "driver_name": "PAUL,APURBA",
+        "driver_license": "5178307",
+        "medallion": "1T34",
+        "count_of_violations": "7"
+      },
+      {
+        "driver_name": "HOSSAIN,MD,M",
+        "driver_license": "434439",
+        "medallion": "6H79",
+        "count_of_violations": "5"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "7E66",
+        "medallion_owner": "RIZSHI LLC",
+        "count_of_violations": "22",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "2L89",
+        "medallion_owner": "GLORIA TAXI INC.",
+        "count_of_violations": "22",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "6F17",
+        "medallion_owner": "MELVILLE, LENNOX",
+        "count_of_violations": "14",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "5P90",
+        "medallion_owner": "SPARTI TAXI INC",
+        "count_of_violations": "10",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "8D60",
+        "medallion_owner": "SOFIA PAPAIOANNOU",
+        "count_of_violations": "8",
+        "number_of_drivers": "2"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "GLORIA TAXI INC.",
+        "count_of_violations": "22",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "25"
+      },
+      {
+        "medallion_owner": "RIZSHI LLC",
+        "count_of_violations": "22",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      },
+      {
+        "medallion_owner": "MELVILLE, LENNOX",
+        "count_of_violations": "14",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "50"
+      },
+      {
+        "medallion_owner": "SPARTI TAXI INC",
+        "count_of_violations": "11",
+        "number_of_vehicles": "2",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "40"
+      },
+      {
+        "medallion_owner": "SOFIA PAPAIOANNOU",
+        "count_of_violations": "8",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "100"
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "charge_code": "54-13(A)(1)",
+    "chapter": "54",
+    "part": "13",
+    "subpart": "Comply with Laws  Traffic Laws & Miscellaneous",
+    "section": "A",
+    "subsection": "Comply with Traffic Laws. Taxicab Drivers (and any authorized Driver of a Street Hail Livery, while driving a Street Hail Livery) must comply with all applicable traffic laws, rules, and regulations.",
+    "paragraph": "1",
+    "subparagraph": "Laws, rules or regulations governing stationary vehicles.",
+    "clause": "",
+    "subclause": "",
+    "description": "Comply with Traffic Laws (stationary)",
+    "penalty": "Fine: $100 if plead guilty before a hearing; $200 if found guilty following a hearing.",
+    "min_fine": "100",
+    "max_fine": "200",
+    "points": "0",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch54.pdf",
+    "tlc_category": "Is reckless or unsafe if you were not the passenger",
+    "violations": {
+      "total_violations": "2863",
+      "consumer_complaints_2012": "264",
+      "consumer_complaints_percentage_2012": "1.9",
+      "consumer_complaints_2013": "312",
+      "consumer_complaints_percentage_2013": "1.7",
+      "complaints_2012": "1321",
+      "complaints_percentage_2012": "2.4",
+      "complaints_2013": "1542",
+      "complaints_percentage_2013": "2.9",
+      "consumer_complaints_percentage_pay_summons": "43",
+      "consumer_complaints_percentage_trial": "35",
+      "consumer_complaints_percentage_guilty": "81"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "OSSEI-BOATING,JOHN",
+        "driver_license": "478881",
+        "medallion": "2L89",
+        "count_of_violations": "22"
+      },
+      {
+        "driver_name": "MURRY,YOA,S",
+        "driver_license": "451567",
+        "medallion": "6F17",
+        "count_of_violations": "14"
+      },
+      {
+        "driver_name": "HASSAN,ZAMIL",
+        "driver_license": "479824",
+        "medallion": "5P90",
+        "count_of_violations": "10"
+      },
+      {
+        "driver_name": "PAUL,APURBA",
+        "driver_license": "5178307",
+        "medallion": "1T34",
+        "count_of_violations": "7"
+      },
+      {
+        "driver_name": "HOSSAIN,MD,M",
+        "driver_license": "434439",
+        "medallion": "6H79",
+        "count_of_violations": "5"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "7E66",
+        "medallion_owner": "RIZSHI LLC",
+        "count_of_violations": "22",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "2L89",
+        "medallion_owner": "GLORIA TAXI INC.",
+        "count_of_violations": "22",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "6F17",
+        "medallion_owner": "MELVILLE, LENNOX",
+        "count_of_violations": "14",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "5P90",
+        "medallion_owner": "SPARTI TAXI INC",
+        "count_of_violations": "10",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "8D60",
+        "medallion_owner": "SOFIA PAPAIOANNOU",
+        "count_of_violations": "8",
+        "number_of_drivers": "2"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "GLORIA TAXI INC.",
+        "count_of_violations": "22",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "25"
+      },
+      {
+        "medallion_owner": "RIZSHI LLC",
+        "count_of_violations": "22",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      },
+      {
+        "medallion_owner": "MELVILLE, LENNOX",
+        "count_of_violations": "14",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "50"
+      },
+      {
+        "medallion_owner": "SPARTI TAXI INC",
+        "count_of_violations": "11",
+        "number_of_vehicles": "2",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "40"
+      },
+      {
+        "medallion_owner": "SOFIA PAPAIOANNOU",
+        "count_of_violations": "8",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "100"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "charge_code": "54-13(A)(2)",
+    "chapter": "54",
+    "part": "13",
+    "subpart": "Comply with Laws  Traffic Laws & Miscellaneous",
+    "section": "A",
+    "subsection": "Comply with Traffic Laws. Taxicab Drivers (and any authorized Driver of a Street Hail Livery, while driving a Street Hail Livery) must comply with all applicable traffic laws, rules, and regulations.",
+    "paragraph": "2",
+    "subparagraph": "Laws, rules or regulations governing moving vehicles, other than hazardous moving violations defined by paragraph (3) of this subdivision.",
+    "clause": "",
+    "subclause": "",
+    "description": "Comply with Traffic Laws (moving but not wreckless driving)",
+    "penalty": "Fine: $200 if plead guilty before a hearing; $300 if found guilty following a hearing.",
+    "min_fine": "200",
+    "max_fine": "300",
+    "points": "0",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch54.pdf",
+    "tlc_category": "Is reckless or unsafe if you were the passenger",
+    "violations": {
+      "total_violations": "5404",
+      "consumer_complaints_2012": "1082",
+      "consumer_complaints_percentage_2012": "7.7",
+      "consumer_complaints_2013": "1426",
+      "consumer_complaints_percentage_2013": "7.8",
+      "complaints_2012": "2517",
+      "complaints_percentage_2012": "4.5",
+      "complaints_2013": "2887",
+      "complaints_percentage_2013": "5.5",
+      "consumer_complaints_percentage_pay_summons": "37",
+      "consumer_complaints_percentage_trial": "44",
+      "consumer_complaints_percentage_guilty": "79"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "AHMAD,RAFIQUE",
+        "driver_license": "5084749",
+        "medallion": "2F85",
+        "count_of_violations": "7"
+      },
+      {
+        "driver_name": "GAWA,LOBSANG",
+        "driver_license": "5381992",
+        "medallion": "2Y40",
+        "count_of_violations": "5"
+      },
+      {
+        "driver_name": "YANG,JASON",
+        "driver_license": "5284921",
+        "medallion": "1J12",
+        "count_of_violations": "4"
+      },
+      {
+        "driver_name": "KHAN,RATAN,R",
+        "driver_license": "463791",
+        "medallion": "9H64",
+        "count_of_violations": "4"
+      },
+      {
+        "driver_name": "ISLAM,MOHAMMED,D",
+        "driver_license": "5322967",
+        "medallion": "9C84",
+        "count_of_violations": "4"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "2F85",
+        "medallion_owner": "MERLAIN, JACQUES",
+        "count_of_violations": "7",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "3A46",
+        "medallion_owner": "BELGARDE,RAYMOND",
+        "count_of_violations": "6",
+        "number_of_drivers": "2"
+      },
+      {
+        "medallion": "5M56",
+        "medallion_owner": "BIG ARI TAXI CORP.",
+        "count_of_violations": "6",
+        "number_of_drivers": "2"
+      },
+      {
+        "medallion": "2K12",
+        "medallion_owner": "DRUPA TAXI INC",
+        "count_of_violations": "6",
+        "number_of_drivers": "2"
+      },
+      {
+        "medallion": "3K65",
+        "medallion_owner": "ENGINE TRANS CORP",
+        "count_of_violations": "5",
+        "number_of_drivers": "3"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "MERLAIN, JACQUES",
+        "count_of_violations": "7",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      },
+      {
+        "medallion_owner": "SINGH,BALWINDER",
+        "count_of_violations": "7",
+        "number_of_vehicles": "5",
+        "number_of_drivers": "7",
+        "percent_of_drivers_w_violations": "30"
+      },
+      {
+        "medallion_owner": "NEW ROSS TRANSPORTATION CO",
+        "count_of_violations": "6",
+        "number_of_vehicles": "2",
+        "number_of_drivers": "3",
+        "percent_of_drivers_w_violations": "75"
+      },
+      {
+        "medallion_owner": "BELGARDE,RAYMOND",
+        "count_of_violations": "6",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "40"
+      },
+      {
+        "medallion_owner": "DRUPA TAXI INC",
+        "count_of_violations": "6",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "40"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "charge_code": "54-13(A)(2)",
+    "chapter": "54",
+    "part": "13",
+    "subpart": "Comply with Laws  Traffic Laws & Miscellaneous",
+    "section": "A",
+    "subsection": "Comply with Traffic Laws. Taxicab Drivers (and any authorized Driver of a Street Hail Livery, while driving a Street Hail Livery) must comply with all applicable traffic laws, rules, and regulations.",
+    "paragraph": "2",
+    "subparagraph": "Laws, rules or regulations governing moving vehicles, other than hazardous moving violations defined by paragraph (3) of this subdivision.",
+    "clause": "",
+    "subclause": "",
+    "description": "Comply with Traffic Laws (moving but not wreckless driving)",
+    "penalty": "Fine: $200 if plead guilty before a hearing; $300 if found guilty following a hearing.",
+    "min_fine": "200",
+    "max_fine": "300",
+    "points": "0",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch54.pdf",
+    "tlc_category": "Is reckless or unsafe if you were not the passenger",
+    "violations": {
+      "total_violations": "5404",
+      "consumer_complaints_2012": "1082",
+      "consumer_complaints_percentage_2012": "7.7",
+      "consumer_complaints_2013": "1426",
+      "consumer_complaints_percentage_2013": "7.8",
+      "complaints_2012": "2517",
+      "complaints_percentage_2012": "4.5",
+      "complaints_2013": "2887",
+      "complaints_percentage_2013": "5.5",
+      "consumer_complaints_percentage_pay_summons": "37",
+      "consumer_complaints_percentage_trial": "44",
+      "consumer_complaints_percentage_guilty": "79"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "AHMAD,RAFIQUE",
+        "driver_license": "5084749",
+        "medallion": "2F85",
+        "count_of_violations": "7"
+      },
+      {
+        "driver_name": "GAWA,LOBSANG",
+        "driver_license": "5381992",
+        "medallion": "2Y40",
+        "count_of_violations": "5"
+      },
+      {
+        "driver_name": "YANG,JASON",
+        "driver_license": "5284921",
+        "medallion": "1J12",
+        "count_of_violations": "4"
+      },
+      {
+        "driver_name": "KHAN,RATAN,R",
+        "driver_license": "463791",
+        "medallion": "9H64",
+        "count_of_violations": "4"
+      },
+      {
+        "driver_name": "ISLAM,MOHAMMED,D",
+        "driver_license": "5322967",
+        "medallion": "9C84",
+        "count_of_violations": "4"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "2F85",
+        "medallion_owner": "MERLAIN, JACQUES",
+        "count_of_violations": "7",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "3A46",
+        "medallion_owner": "BELGARDE,RAYMOND",
+        "count_of_violations": "6",
+        "number_of_drivers": "2"
+      },
+      {
+        "medallion": "5M56",
+        "medallion_owner": "BIG ARI TAXI CORP.",
+        "count_of_violations": "6",
+        "number_of_drivers": "2"
+      },
+      {
+        "medallion": "2K12",
+        "medallion_owner": "DRUPA TAXI INC",
+        "count_of_violations": "6",
+        "number_of_drivers": "2"
+      },
+      {
+        "medallion": "3K65",
+        "medallion_owner": "ENGINE TRANS CORP",
+        "count_of_violations": "5",
+        "number_of_drivers": "3"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "MERLAIN, JACQUES",
+        "count_of_violations": "7",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      },
+      {
+        "medallion_owner": "SINGH,BALWINDER",
+        "count_of_violations": "7",
+        "number_of_vehicles": "5",
+        "number_of_drivers": "7",
+        "percent_of_drivers_w_violations": "30"
+      },
+      {
+        "medallion_owner": "NEW ROSS TRANSPORTATION CO",
+        "count_of_violations": "6",
+        "number_of_vehicles": "2",
+        "number_of_drivers": "3",
+        "percent_of_drivers_w_violations": "75"
+      },
+      {
+        "medallion_owner": "BELGARDE,RAYMOND",
+        "count_of_violations": "6",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "40"
+      },
+      {
+        "medallion_owner": "DRUPA TAXI INC",
+        "count_of_violations": "6",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "40"
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "charge_code": "54-13(A)(3)(VI)",
+    "chapter": "54",
+    "part": "13",
+    "subpart": "Comply with Laws  Traffic Laws & Miscellaneous",
+    "section": "A",
+    "subsection": "Comply with Traffic Laws. Taxicab Drivers (and any authorized Driver of a Street Hail Livery, while driving a Street Hail Livery) must comply with all applicable traffic laws, rules, and regulations.",
+    "paragraph": "3",
+    "subparagraph": "Laws, rules or regulations governing moving vehicles that involve hazardous moving violations",
+    "clause": "vi",
+    "subclause": "Failing to yield right of way",
+    "description": "Failing to yield right of way",
+    "penalty": "Fine: $300 if plead guilty before a hearing; $400 if found guilty following a hearing.",
+    "min_fine": "300",
+    "max_fine": "400",
+    "points": "3",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch54.pdf",
+    "tlc_category": "Is reckless or unsafe if you were the passenger",
+    "violations": {
+      "total_violations": "276",
+      "consumer_complaints_2012": "72",
+      "consumer_complaints_percentage_2012": "< 1",
+      "consumer_complaints_2013": "192",
+      "consumer_complaints_percentage_2013": "1.1",
+      "complaints_2012": "79",
+      "complaints_percentage_2012": "< 1",
+      "complaints_2013": "197",
+      "complaints_percentage_2013": "< 1",
+      "consumer_complaints_percentage_pay_summons": "30",
+      "consumer_complaints_percentage_trial": "51",
+      "consumer_complaints_percentage_guilty": "53"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "SHAHBAN,JANI",
+        "driver_license": "5369445",
+        "medallion": "7F11",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "HAQ,MAZHAR,UL",
+        "driver_license": "5150830",
+        "medallion": "2F37",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "SINGH,BALWINDER",
+        "driver_license": "5174947",
+        "medallion": "8J35",
+        "count_of_violations": "2"
+      },
+      {
+        "driver_name": "LY,IBRAHIMA",
+        "driver_license": "5152958",
+        "medallion": "1W67",
+        "count_of_violations": "2"
+      },
+      {
+        "driver_name": "ANISUZZAMAN,MOHAMMED",
+        "driver_license": "433541",
+        "medallion": "9C85",
+        "count_of_violations": "2"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "7F11",
+        "medallion_owner": "BAIG,ABDUL,A.",
+        "count_of_violations": "3",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "2F37",
+        "medallion_owner": "P&amp;S MAHARAJ INC.",
+        "count_of_violations": "3",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "6M62",
+        "medallion_owner": "S &amp; A TAXI CORP",
+        "count_of_violations": "3",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "5L71",
+        "medallion_owner": "OVERTRAN INC",
+        "count_of_violations": "2",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "5Y76",
+        "medallion_owner": "W BREIT TAXI INC",
+        "count_of_violations": "2",
+        "number_of_drivers": "1"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "S &amp; A TAXI CORP",
+        "count_of_violations": "3",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "50"
+      },
+      {
+        "medallion_owner": "BAIG,ABDUL,A.",
+        "count_of_violations": "3",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      },
+      {
+        "medallion_owner": "P&amp;S MAHARAJ INC.",
+        "count_of_violations": "3",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "20"
+      },
+      {
+        "medallion_owner": "PATWARY,HAFAEZ,KARIM",
+        "count_of_violations": "2",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      },
+      {
+        "medallion_owner": "PIERNO, ANTHONY",
+        "count_of_violations": "2",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "charge_code": "54-13(A)(3)(VI)",
+    "chapter": "54",
+    "part": "13",
+    "subpart": "Comply with Laws  Traffic Laws & Miscellaneous",
+    "section": "A",
+    "subsection": "Comply with Traffic Laws. Taxicab Drivers (and any authorized Driver of a Street Hail Livery, while driving a Street Hail Livery) must comply with all applicable traffic laws, rules, and regulations.",
+    "paragraph": "3",
+    "subparagraph": "Laws, rules or regulations governing moving vehicles that involve hazardous moving violations",
+    "clause": "vi",
+    "subclause": "Failing to yield right of way",
+    "description": "Failing to yield right of way",
+    "penalty": "Fine: $300 if plead guilty before a hearing; $400 if found guilty following a hearing.",
+    "min_fine": "300",
+    "max_fine": "400",
+    "points": "3",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch54.pdf",
+    "tlc_category": "Is reckless or unsafe if you were not the passenger",
+    "violations": {
+      "total_violations": "276",
+      "consumer_complaints_2012": "72",
+      "consumer_complaints_percentage_2012": "< 1",
+      "consumer_complaints_2013": "192",
+      "consumer_complaints_percentage_2013": "1.1",
+      "complaints_2012": "79",
+      "complaints_percentage_2012": "< 1",
+      "complaints_2013": "197",
+      "complaints_percentage_2013": "< 1",
+      "consumer_complaints_percentage_pay_summons": "30",
+      "consumer_complaints_percentage_trial": "51",
+      "consumer_complaints_percentage_guilty": "53"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "SHAHBAN,JANI",
+        "driver_license": "5369445",
+        "medallion": "7F11",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "HAQ,MAZHAR,UL",
+        "driver_license": "5150830",
+        "medallion": "2F37",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "SINGH,BALWINDER",
+        "driver_license": "5174947",
+        "medallion": "8J35",
+        "count_of_violations": "2"
+      },
+      {
+        "driver_name": "LY,IBRAHIMA",
+        "driver_license": "5152958",
+        "medallion": "1W67",
+        "count_of_violations": "2"
+      },
+      {
+        "driver_name": "ANISUZZAMAN,MOHAMMED",
+        "driver_license": "433541",
+        "medallion": "9C85",
+        "count_of_violations": "2"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "7F11",
+        "medallion_owner": "BAIG,ABDUL,A.",
+        "count_of_violations": "3",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "2F37",
+        "medallion_owner": "P&amp;S MAHARAJ INC.",
+        "count_of_violations": "3",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "6M62",
+        "medallion_owner": "S &amp; A TAXI CORP",
+        "count_of_violations": "3",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "5L71",
+        "medallion_owner": "OVERTRAN INC",
+        "count_of_violations": "2",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "5Y76",
+        "medallion_owner": "W BREIT TAXI INC",
+        "count_of_violations": "2",
+        "number_of_drivers": "1"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "S &amp; A TAXI CORP",
+        "count_of_violations": "3",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "50"
+      },
+      {
+        "medallion_owner": "BAIG,ABDUL,A.",
+        "count_of_violations": "3",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      },
+      {
+        "medallion_owner": "P&amp;S MAHARAJ INC.",
+        "count_of_violations": "3",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "20"
+      },
+      {
+        "medallion_owner": "PATWARY,HAFAEZ,KARIM",
+        "count_of_violations": "2",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      },
+      {
+        "medallion_owner": "PIERNO, ANTHONY",
+        "count_of_violations": "2",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "charge_code": "54-13(A)(3)(XII)",
+    "chapter": "54",
+    "part": "13",
+    "subpart": "Comply with Laws  Traffic Laws & Miscellaneous",
+    "section": "A",
+    "subsection": "Comply with Traffic Laws. Taxicab Drivers (and any authorized Driver of a Street Hail Livery, while driving a Street Hail Livery) must comply with all applicable traffic laws, rules, and regulations.",
+    "paragraph": "3",
+    "subparagraph": "Laws, rules or regulations governing moving vehicles that involve hazardous moving violations",
+    "clause": "xii",
+    "subclause": "Unsafe lane change",
+    "description": "Unsafe lane change",
+    "penalty": "Fine: $300 if plead guilty before a hearing; $400 if found guilty following a hearing.",
+    "min_fine": "300",
+    "max_fine": "400",
+    "points": "3",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch54.pdf",
+    "tlc_category": "Is reckless or unsafe if you were the passenger",
+    "violations": {
+      "total_violations": "622",
+      "consumer_complaints_2012": "222",
+      "consumer_complaints_percentage_2012": "1.6",
+      "consumer_complaints_2013": "324",
+      "consumer_complaints_percentage_2013": "1.8",
+      "complaints_2012": "270",
+      "complaints_percentage_2012": "< 1",
+      "complaints_2013": "352",
+      "complaints_percentage_2013": "< 1",
+      "consumer_complaints_percentage_pay_summons": "25",
+      "consumer_complaints_percentage_trial": "60",
+      "consumer_complaints_percentage_guilty": "49"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "ARSHAD,OMEIR",
+        "driver_license": "5412603",
+        "medallion": "9E27",
+        "count_of_violations": "4"
+      },
+      {
+        "driver_name": "ALI,MOHAMMAD",
+        "driver_license": "5159429",
+        "medallion": "3Y97",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "ISLAM,KHAN,MOHAMMED",
+        "driver_license": "5066855",
+        "medallion": "4B94",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "TETTEH,QUASHIE,A",
+        "driver_license": "5303639",
+        "medallion": "5J29",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "BALDE,THIERNO,C",
+        "driver_license": "5355204",
+        "medallion": "4A69",
+        "count_of_violations": "2"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "9E27",
+        "medallion_owner": "ARSHAD,OMEIR",
+        "count_of_violations": "4",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "5J29",
+        "medallion_owner": "EVAN TRANSIT INC",
+        "count_of_violations": "3",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "3Y97",
+        "medallion_owner": "BELL TAXI CORP",
+        "count_of_violations": "3",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "4B94",
+        "medallion_owner": "ZIROPOULOS,DIMITRIOS",
+        "count_of_violations": "3",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "1J39",
+        "medallion_owner": "MOURNE TRANS CORP",
+        "count_of_violations": "2",
+        "number_of_drivers": "2"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "ARSHAD,OMEIR",
+        "count_of_violations": "4",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      },
+      {
+        "medallion_owner": "EVAN TRANSIT INC",
+        "count_of_violations": "3",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "25"
+      },
+      {
+        "medallion_owner": "BELL TAXI CORP",
+        "count_of_violations": "3",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "13"
+      },
+      {
+        "medallion_owner": "ZIROPOULOS,DIMITRIOS",
+        "count_of_violations": "3",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "25"
+      },
+      {
+        "medallion_owner": "XIFIAS TRANS INC",
+        "count_of_violations": "3",
+        "number_of_vehicles": "2",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "20"
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "charge_code": "54-13(A)(3)(XII)",
+    "chapter": "54",
+    "part": "13",
+    "subpart": "Comply with Laws  Traffic Laws & Miscellaneous",
+    "section": "A",
+    "subsection": "Comply with Traffic Laws. Taxicab Drivers (and any authorized Driver of a Street Hail Livery, while driving a Street Hail Livery) must comply with all applicable traffic laws, rules, and regulations.",
+    "paragraph": "3",
+    "subparagraph": "Laws, rules or regulations governing moving vehicles that involve hazardous moving violations",
+    "clause": "xii",
+    "subclause": "Unsafe lane change",
+    "description": "Unsafe lane change",
+    "penalty": "Fine: $300 if plead guilty before a hearing; $400 if found guilty following a hearing.",
+    "min_fine": "300",
+    "max_fine": "400",
+    "points": "3",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch54.pdf",
+    "tlc_category": "Is reckless or unsafe if you were not the passenger",
+    "violations": {
+      "total_violations": "622",
+      "consumer_complaints_2012": "222",
+      "consumer_complaints_percentage_2012": "1.6",
+      "consumer_complaints_2013": "324",
+      "consumer_complaints_percentage_2013": "1.8",
+      "complaints_2012": "270",
+      "complaints_percentage_2012": "< 1",
+      "complaints_2013": "352",
+      "complaints_percentage_2013": "< 1",
+      "consumer_complaints_percentage_pay_summons": "25",
+      "consumer_complaints_percentage_trial": "60",
+      "consumer_complaints_percentage_guilty": "49"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "ARSHAD,OMEIR",
+        "driver_license": "5412603",
+        "medallion": "9E27",
+        "count_of_violations": "4"
+      },
+      {
+        "driver_name": "ALI,MOHAMMAD",
+        "driver_license": "5159429",
+        "medallion": "3Y97",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "ISLAM,KHAN,MOHAMMED",
+        "driver_license": "5066855",
+        "medallion": "4B94",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "TETTEH,QUASHIE,A",
+        "driver_license": "5303639",
+        "medallion": "5J29",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "BALDE,THIERNO,C",
+        "driver_license": "5355204",
+        "medallion": "4A69",
+        "count_of_violations": "2"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "9E27",
+        "medallion_owner": "ARSHAD,OMEIR",
+        "count_of_violations": "4",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "5J29",
+        "medallion_owner": "EVAN TRANSIT INC",
+        "count_of_violations": "3",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "3Y97",
+        "medallion_owner": "BELL TAXI CORP",
+        "count_of_violations": "3",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "4B94",
+        "medallion_owner": "ZIROPOULOS,DIMITRIOS",
+        "count_of_violations": "3",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "1J39",
+        "medallion_owner": "MOURNE TRANS CORP",
+        "count_of_violations": "2",
+        "number_of_drivers": "2"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "ARSHAD,OMEIR",
+        "count_of_violations": "4",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      },
+      {
+        "medallion_owner": "EVAN TRANSIT INC",
+        "count_of_violations": "3",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "25"
+      },
+      {
+        "medallion_owner": "BELL TAXI CORP",
+        "count_of_violations": "3",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "13"
+      },
+      {
+        "medallion_owner": "ZIROPOULOS,DIMITRIOS",
+        "count_of_violations": "3",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "25"
+      },
+      {
+        "medallion_owner": "XIFIAS TRANS INC",
+        "count_of_violations": "3",
+        "number_of_vehicles": "2",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "20"
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "charge_code": "54-13(A)(4)(I)",
+    "chapter": "54",
+    "part": "13",
+    "subpart": "Comply with Laws  Traffic Laws & Miscellaneous",
+    "section": "A",
+    "subsection": "Comply with Traffic Laws. Taxicab Drivers (and any authorized Driver of a Street Hail Livery, while driving a Street Hail Livery) must comply with all applicable traffic laws, rules, and regulations.",
+    "paragraph": "4",
+    "subparagraph": "Report Before Leaving Scene. A Driver who knows or should have known that a traffic accident involving the Drivers Vehicle resulted in personal injury to another or damage to anothers property, must stop before leaving the scene of the accident.",
+    "clause": "i",
+    "subclause": "Show his or her Chauffeurs License, Taxicab Driver's License (or, as applicable, For-Hire Drivers License or Paratransit Drivers License), and Rate Card to the other party involved in the incident.",
+    "description": "Show license",
+    "penalty": "Fine: $350 and/or suspension up to 30 days or revocation if Driver is found guilty of having violated this rule more than 3 times within a 12-month period",
+    "min_fine": "350",
+    "max_fine": "350",
+    "points": "3",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch54.pdf",
+    "tlc_category": "Fails to display a license",
+    "violations": {
+      "total_violations": "128",
+      "consumer_complaints_2012": "24",
+      "consumer_complaints_percentage_2012": "< 1",
+      "consumer_complaints_2013": "103",
+      "consumer_complaints_percentage_2013": "< 1",
+      "complaints_2012": "24",
+      "complaints_percentage_2012": "< 1",
+      "complaints_2013": "104",
+      "complaints_percentage_2013": "< 1",
+      "consumer_complaints_percentage_pay_summons": "19",
+      "consumer_complaints_percentage_trial": "65",
+      "consumer_complaints_percentage_guilty": "43"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "BALOCH,NASIM,A",
+        "driver_license": "445096",
+        "medallion": "8P48",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "PIERRE,CHRISPIN",
+        "driver_license": "447139",
+        "medallion": "5B34",
+        "count_of_violations": "2"
+      },
+      {
+        "driver_name": "ISLAM,MD,R",
+        "driver_license": "5179272",
+        "medallion": "6G68",
+        "count_of_violations": "2"
+      },
+      {
+        "driver_name": "NAZARY,SHAH",
+        "driver_license": "416608",
+        "medallion": "1D49",
+        "count_of_violations": "2"
+      },
+      {
+        "driver_name": "ALI,MD,HASHAM",
+        "driver_license": "5356704",
+        "medallion": "8N93",
+        "count_of_violations": "2"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "8P48",
+        "medallion_owner": "ALEXANDRA TAXI INC",
+        "count_of_violations": "3",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "6G68",
+        "medallion_owner": "BORISKA TAXI INC",
+        "count_of_violations": "2",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "8N93",
+        "medallion_owner": "CHONA TRANSIT INC",
+        "count_of_violations": "2",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "2A65",
+        "medallion_owner": "TWO A SIXTY FIVE INC",
+        "count_of_violations": "2",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "4L95",
+        "medallion_owner": "RJIG HACKING CORP",
+        "count_of_violations": "2",
+        "number_of_drivers": "1"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "ALEXANDRA TAXI INC",
+        "count_of_violations": "3",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "10"
+      },
+      {
+        "medallion_owner": "BORISKA TAXI INC",
+        "count_of_violations": "2",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "100"
+      },
+      {
+        "medallion_owner": "CUEVAS,SAMUEL",
+        "count_of_violations": "2",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      },
+      {
+        "medallion_owner": "SHAH,SAYED,N",
+        "count_of_violations": "2",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "100"
+      },
+      {
+        "medallion_owner": "PAUL TRANSIT INC",
+        "count_of_violations": "2",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "charge_code": "54-14(A)",
+    "chapter": "54",
+    "part": "14",
+    "subpart": "Operations  Passenger and Driver Safety",
+    "section": "A",
+    "subsection": "Reckless Driving Rule. A Driver must not operate his or her Vehicle in a manner that would violate section 1212 of the NYS Vehicle and Traffic Law.",
+    "paragraph": "",
+    "subparagraph": "",
+    "clause": "",
+    "subclause": "",
+    "description": "No reckless driving",
+    "penalty": "Fine: $350-$1,000 and/or suspension up to 30 days, or revocation if Driver is found guilty of having violated this rule more than three times within an 18-month period",
+    "min_fine": "350",
+    "max_fine": "1000",
+    "points": "4",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch54.pdf",
+    "tlc_category": "Is reckless or unsafe if you were the passenger",
+    "violations": {
+      "total_violations": "960",
+      "consumer_complaints_2012": "453",
+      "consumer_complaints_percentage_2012": "3.2",
+      "consumer_complaints_2013": "449",
+      "consumer_complaints_percentage_2013": "2.5",
+      "complaints_2012": "477",
+      "complaints_percentage_2012": "< 1",
+      "complaints_2013": "483",
+      "complaints_percentage_2013": "< 1",
+      "consumer_complaints_percentage_pay_summons": "17",
+      "consumer_complaints_percentage_trial": "69",
+      "consumer_complaints_percentage_guilty": "41"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "THELEMAQUE,PAUL",
+        "driver_license": "500296",
+        "medallion": "1D75",
+        "count_of_violations": "4"
+      },
+      {
+        "driver_name": "ABAKAR,MAHAMAT,B",
+        "driver_license": "5374769",
+        "medallion": "2K43",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "GOFUR,MOHAMMAD,A",
+        "driver_license": "5189593",
+        "medallion": "3B51",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "YANG,JASON",
+        "driver_license": "5284921",
+        "medallion": "1J12",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "AHMAD,RAFIQUE",
+        "driver_license": "5084749",
+        "medallion": "2F85",
+        "count_of_violations": "3"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "1D75",
+        "medallion_owner": "JEAN,LEROY",
+        "count_of_violations": "4",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "5M56",
+        "medallion_owner": "BIG ARI TAXI CORP.",
+        "count_of_violations": "4",
+        "number_of_drivers": "2"
+      },
+      {
+        "medallion": "2Y44",
+        "medallion_owner": "NY GENESIS TAXI CORP",
+        "count_of_violations": "3",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "2A65",
+        "medallion_owner": "TWO A SIXTY FIVE INC",
+        "count_of_violations": "3",
+        "number_of_drivers": "2"
+      },
+      {
+        "medallion": "1J12",
+        "medallion_owner": "NEW ROSS TRANSPORTATION CO",
+        "count_of_violations": "3",
+        "number_of_drivers": "1"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "JEAN,LEROY",
+        "count_of_violations": "4",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "100"
+      },
+      {
+        "medallion_owner": "BIG ARI TAXI CORP.",
+        "count_of_violations": "4",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "40"
+      },
+      {
+        "medallion_owner": "NEW ROSS TRANSPORTATION CO",
+        "count_of_violations": "4",
+        "number_of_vehicles": "2",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "50"
+      },
+      {
+        "medallion_owner": "JONOAHJO TAXI INC.",
+        "count_of_violations": "3",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "100"
+      },
+      {
+        "medallion_owner": "MERLAIN, JACQUES",
+        "count_of_violations": "3",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "charge_code": "54-14(A)",
+    "chapter": "54",
+    "part": "14",
+    "subpart": "Operations  Passenger and Driver Safety",
+    "section": "A",
+    "subsection": "Reckless Driving Rule. A Driver must not operate his or her Vehicle in a manner that would violate section 1212 of the NYS Vehicle and Traffic Law.",
+    "paragraph": "",
+    "subparagraph": "",
+    "clause": "",
+    "subclause": "",
+    "description": "No reckless driving",
+    "penalty": "Fine: $350-$1,000 and/or suspension up to 30 days, or revocation if Driver is found guilty of having violated this rule more than three times within an 18-month period",
+    "min_fine": "350",
+    "max_fine": "1000",
+    "points": "4",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch54.pdf",
+    "tlc_category": "Is reckless or unsafe if you were not the passenger",
+    "violations": {
+      "total_violations": "960",
+      "consumer_complaints_2012": "453",
+      "consumer_complaints_percentage_2012": "3.2",
+      "consumer_complaints_2013": "449",
+      "consumer_complaints_percentage_2013": "2.5",
+      "complaints_2012": "477",
+      "complaints_percentage_2012": "< 1",
+      "complaints_2013": "483",
+      "complaints_percentage_2013": "< 1",
+      "consumer_complaints_percentage_pay_summons": "17",
+      "consumer_complaints_percentage_trial": "69",
+      "consumer_complaints_percentage_guilty": "41"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "THELEMAQUE,PAUL",
+        "driver_license": "500296",
+        "medallion": "1D75",
+        "count_of_violations": "4"
+      },
+      {
+        "driver_name": "ABAKAR,MAHAMAT,B",
+        "driver_license": "5374769",
+        "medallion": "2K43",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "GOFUR,MOHAMMAD,A",
+        "driver_license": "5189593",
+        "medallion": "3B51",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "YANG,JASON",
+        "driver_license": "5284921",
+        "medallion": "1J12",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "AHMAD,RAFIQUE",
+        "driver_license": "5084749",
+        "medallion": "2F85",
+        "count_of_violations": "3"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "1D75",
+        "medallion_owner": "JEAN,LEROY",
+        "count_of_violations": "4",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "5M56",
+        "medallion_owner": "BIG ARI TAXI CORP.",
+        "count_of_violations": "4",
+        "number_of_drivers": "2"
+      },
+      {
+        "medallion": "2Y44",
+        "medallion_owner": "NY GENESIS TAXI CORP",
+        "count_of_violations": "3",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "2A65",
+        "medallion_owner": "TWO A SIXTY FIVE INC",
+        "count_of_violations": "3",
+        "number_of_drivers": "2"
+      },
+      {
+        "medallion": "1J12",
+        "medallion_owner": "NEW ROSS TRANSPORTATION CO",
+        "count_of_violations": "3",
+        "number_of_drivers": "1"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "JEAN,LEROY",
+        "count_of_violations": "4",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "100"
+      },
+      {
+        "medallion_owner": "BIG ARI TAXI CORP.",
+        "count_of_violations": "4",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "40"
+      },
+      {
+        "medallion_owner": "NEW ROSS TRANSPORTATION CO",
+        "count_of_violations": "4",
+        "number_of_vehicles": "2",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "50"
+      },
+      {
+        "medallion_owner": "JONOAHJO TAXI INC.",
+        "count_of_violations": "3",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "100"
+      },
+      {
+        "medallion_owner": "MERLAIN, JACQUES",
+        "count_of_violations": "3",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "charge_code": "54-14(E)(1)",
+    "chapter": "54",
+    "part": "14",
+    "subpart": "Operations  Passenger and Driver Safety",
+    "section": "E",
+    "subsection": "Use of Electronic Communication Device",
+    "paragraph": "1",
+    "subparagraph": "A Driver must not Use an Electronic Communication Device while operating a Vehicle. A Driver can Use an Electronic Communication Device only while the Vehicle is lawfully standing or parked.",
+    "clause": "",
+    "subclause": "",
+    "description": "Use of Electronic Communication Device (cell phone)",
+    "penalty": "Fine: $250 if plead guilty before a hearing; $350 if found guilty following a hearing, and suspension. The suspension is deferred for 60 days; if the driver completes a Distracted Driving Course within the 60-day period then the driver will not be suspended.",
+    "min_fine": "250",
+    "max_fine": "350",
+    "points": "3",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch54.pdf",
+    "tlc_category": "Uses a cell phone while driving",
+    "violations": {
+      "total_violations": "4542",
+      "consumer_complaints_2012": "409",
+      "consumer_complaints_percentage_2012": "2.9",
+      "consumer_complaints_2013": "597",
+      "consumer_complaints_percentage_2013": "3.3",
+      "complaints_2012": "2143",
+      "complaints_percentage_2012": "3.9",
+      "complaints_2013": "2399",
+      "complaints_percentage_2013": "4.5",
+      "consumer_complaints_percentage_pay_summons": "49",
+      "consumer_complaints_percentage_trial": "36",
+      "consumer_complaints_percentage_guilty": "74"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "TINGIR,ILYAS",
+        "driver_license": "5203135",
+        "medallion": "6B83",
+        "count_of_violations": "6"
+      },
+      {
+        "driver_name": "RASOOL,MAJID",
+        "driver_license": "5311310",
+        "medallion": "2B66",
+        "count_of_violations": "5"
+      },
+      {
+        "driver_name": "AKRAM,MUAZZAM",
+        "driver_license": "5353291",
+        "medallion": "9E39",
+        "count_of_violations": "5"
+      },
+      {
+        "driver_name": "BARIKDAR,THEODORE,A",
+        "driver_license": "5162483",
+        "medallion": "3D54",
+        "count_of_violations": "4"
+      },
+      {
+        "driver_name": "SINGH,MANDEEP",
+        "driver_license": "5339770",
+        "medallion": "7A51",
+        "count_of_violations": "4"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "9K69",
+        "medallion_owner": "BLACKOUT HACKING CORP",
+        "count_of_violations": "6",
+        "number_of_drivers": "3"
+      },
+      {
+        "medallion": "6B83",
+        "medallion_owner": "SEVDE SUDE TAXI INC.",
+        "count_of_violations": "6",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "3B37",
+        "medallion_owner": "SINGH,SUKHBINDER",
+        "count_of_violations": "5",
+        "number_of_drivers": "3"
+      },
+      {
+        "medallion": "7A51",
+        "medallion_owner": "KAMMANNY LLC",
+        "count_of_violations": "5",
+        "number_of_drivers": "2"
+      },
+      {
+        "medallion": "9E39",
+        "medallion_owner": "DOUNIS, ANGELIKI",
+        "count_of_violations": "5",
+        "number_of_drivers": "1"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "BLACKOUT HACKING CORP",
+        "count_of_violations": "7",
+        "number_of_vehicles": "2",
+        "number_of_drivers": "4",
+        "percent_of_drivers_w_violations": "50"
+      },
+      {
+        "medallion_owner": "DOUNIS, ANGELIKI",
+        "count_of_violations": "7",
+        "number_of_vehicles": "2",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "100"
+      },
+      {
+        "medallion_owner": "KING FRITZ CAB CORP",
+        "count_of_violations": "7",
+        "number_of_vehicles": "2",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "25"
+      },
+      {
+        "medallion_owner": "SEVDE SUDE TAXI INC.",
+        "count_of_violations": "6",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "25"
+      },
+      {
+        "medallion_owner": "PARKIT TRANS CORP",
+        "count_of_violations": "5",
+        "number_of_vehicles": "2",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "50"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "charge_code": "54-15(B)",
+    "chapter": "54",
+    "part": "15",
+    "subpart": "Operations  General Rules During Operation of Vehicle",
+    "section": "B",
+    "subsection": "Driver Neat & Clean. A Driver must be clean and neat in dress and person and present a professional appearance.",
+    "paragraph": "",
+    "subparagraph": "",
+    "clause": "",
+    "subclause": "",
+    "description": "Driver Neat & Clean",
+    "penalty": "Fine: $25",
+    "min_fine": "25",
+    "max_fine": "25",
+    "points": "0",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch54.pdf",
+    "tlc_category": "Is dirty",
+    "violations": {
+      "total_violations": "31",
+      "consumer_complaints_2012": "10",
+      "consumer_complaints_percentage_2012": "< 1",
+      "consumer_complaints_2013": "1",
+      "consumer_complaints_percentage_2013": "< 1",
+      "complaints_2012": "18",
+      "complaints_percentage_2012": "< 1",
+      "complaints_2013": "13",
+      "complaints_percentage_2013": "< 1",
+      "consumer_complaints_percentage_pay_summons": "18",
+      "consumer_complaints_percentage_trial": "82",
+      "consumer_complaints_percentage_guilty": "45"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "DANGERVIL,ARNOUS",
+        "driver_license": "489401",
+        "medallion": "9D30",
+        "count_of_violations": "1"
+      },
+      {
+        "driver_name": "SINGH,RINKU",
+        "driver_license": "5173206",
+        "medallion": "9B99",
+        "count_of_violations": "1"
+      },
+      {
+        "driver_name": "SINGH,TARSEM",
+        "driver_license": "478698",
+        "medallion": "6M92",
+        "count_of_violations": "1"
+      },
+      {
+        "driver_name": "BOAMAH,PRINCE",
+        "driver_license": "500702",
+        "medallion": "7L52",
+        "count_of_violations": "1"
+      },
+      {
+        "driver_name": "RAHMAN,SM,AFZALUR",
+        "driver_license": "5284126",
+        "medallion": "2M29",
+        "count_of_violations": "1"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "1G25",
+        "medallion_owner": "ISLAM,MOHAMMED,S",
+        "count_of_violations": "1",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "5B69",
+        "medallion_owner": "SINGH,BANTI",
+        "count_of_violations": "1",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "9B22",
+        "medallion_owner": "RIPA TRANS INC.",
+        "count_of_violations": "1",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "2M29",
+        "medallion_owner": "ARIS CAB CORP",
+        "count_of_violations": "1",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "7L52",
+        "medallion_owner": "RBOR TAXI INC",
+        "count_of_violations": "1",
+        "number_of_drivers": "1"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "RIPA TRANS INC.",
+        "count_of_violations": "1",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      },
+      {
+        "medallion_owner": "STUT CAB CORP.",
+        "count_of_violations": "1",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "20"
+      },
+      {
+        "medallion_owner": "BOPARAI,BALJINDER",
+        "count_of_violations": "1",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "50"
+      },
+      {
+        "medallion_owner": "ELBOM, ISRAEL",
+        "count_of_violations": "1",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      },
+      {
+        "medallion_owner": "ISLAM,MOHAMMED,S",
+        "count_of_violations": "1",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "charge_code": "54-15(D)(1)",
+    "chapter": "54",
+    "part": "15",
+    "subpart": "Operations  General Rules During Operation of Vehicle",
+    "section": "D",
+    "subsection": "Locking Vehicle Doors.",
+    "paragraph": "1",
+    "subparagraph": "While on duty, a Driver must not lock either of the rear doors except with the consent or at the request of a Passenger or for a reason specified in these rules.",
+    "clause": "",
+    "subclause": "",
+    "description": "Can't lock rear doors while on duty",
+    "penalty": "Fine: $300 if plead guilty before a hearing; $400 and/or suspension up to 30 days if found guilty following a hearing.",
+    "min_fine": "300",
+    "max_fine": "400",
+    "points": "2",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch54.pdf",
+    "tlc_category": "Refuses to pick up a passenger",
+    "violations": {
+      "total_violations": "516",
+      "consumer_complaints_2012": "209",
+      "consumer_complaints_percentage_2012": "1.5",
+      "consumer_complaints_2013": "250",
+      "consumer_complaints_percentage_2013": "1.4",
+      "complaints_2012": "231",
+      "complaints_percentage_2012": "< 1",
+      "complaints_2013": "285",
+      "complaints_percentage_2013": "< 1",
+      "consumer_complaints_percentage_pay_summons": "7",
+      "consumer_complaints_percentage_trial": "84",
+      "consumer_complaints_percentage_guilty": "30"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "KHAN,IQBAL",
+        "driver_license": "5207079",
+        "medallion": "3M84",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "ATIF,ZARRIN",
+        "driver_license": "5356999",
+        "medallion": "9N72",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "AMIN,MD,N",
+        "driver_license": "5154069",
+        "medallion": "4C28",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "ARSHAD,OMEIR",
+        "driver_license": "5412603",
+        "medallion": "9E27",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "JABBAR,NAJIB",
+        "driver_license": "474892",
+        "medallion": "8F43",
+        "count_of_violations": "2"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "9N72",
+        "medallion_owner": "BENE CAB CORP",
+        "count_of_violations": "3",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "9E27",
+        "medallion_owner": "ARSHAD,OMEIR",
+        "count_of_violations": "3",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "5K65",
+        "medallion_owner": "FREN CAB CORP",
+        "count_of_violations": "3",
+        "number_of_drivers": "2"
+      },
+      {
+        "medallion": "4C28",
+        "medallion_owner": "AMIN,MD,N.",
+        "count_of_violations": "3",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "3M84",
+        "medallion_owner": "ZEISEL HACKING CORP.",
+        "count_of_violations": "3",
+        "number_of_drivers": "1"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "ARSHAD,OMEIR",
+        "count_of_violations": "3",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      },
+      {
+        "medallion_owner": "ZEISEL HACKING CORP.",
+        "count_of_violations": "3",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "25"
+      },
+      {
+        "medallion_owner": "AMIN,MD,N.",
+        "count_of_violations": "3",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "100"
+      },
+      {
+        "medallion_owner": "BENE CAB CORP",
+        "count_of_violations": "3",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "17"
+      },
+      {
+        "medallion_owner": "FREN CAB CORP",
+        "count_of_violations": "3",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "40"
+      }
+    ]
+  },
+  {
+    "id": "37",
+    "charge_code": "54-15(F)(1)",
+    "chapter": "54",
+    "part": "15",
+    "subpart": "Operations  General Rules During Operation of Vehicle",
+    "section": "F",
+    "subsection": "E-ZPass Rules",
+    "paragraph": "1",
+    "subparagraph": "A Driver must not operate a Vehicle for hire that is not equipped with an E-ZPass tag.",
+    "clause": "",
+    "subclause": "",
+    "description": "Car must have EZPass",
+    "penalty": "Fine: $150 if plead guilty before a hearing; $200 if found guilty following a hearing.",
+    "min_fine": "150",
+    "max_fine": "300",
+    "points": "0",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch54.pdf",
+    "tlc_category": "Overcharges, demands tips, or does not use E-Z Pass",
+    "violations": {
+      "total_violations": "86",
+      "consumer_complaints_2012": "17",
+      "consumer_complaints_percentage_2012": "< 1",
+      "consumer_complaints_2013": "14",
+      "consumer_complaints_percentage_2013": "< 1",
+      "complaints_2012": "48",
+      "complaints_percentage_2012": "< 1",
+      "complaints_2013": "38",
+      "complaints_percentage_2013": "< 1",
+      "consumer_complaints_percentage_pay_summons": "20",
+      "consumer_complaints_percentage_trial": "70",
+      "consumer_complaints_percentage_guilty": "77"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "MUNAM,ABDUL",
+        "driver_license": "493434",
+        "medallion": "3J64",
+        "count_of_violations": "2"
+      },
+      {
+        "driver_name": "ULLAH,SHAHID",
+        "driver_license": "5211397",
+        "medallion": "3V70",
+        "count_of_violations": "1"
+      },
+      {
+        "driver_name": "ABBAS,MIRZA,M",
+        "driver_license": "5241094",
+        "medallion": "4N47",
+        "count_of_violations": "1"
+      },
+      {
+        "driver_name": "MIAH,MOHAMMAD,S",
+        "driver_license": "5296260",
+        "medallion": "2A86",
+        "count_of_violations": "1"
+      },
+      {
+        "driver_name": "CHEEMA,HAROON,A",
+        "driver_license": "5378908",
+        "medallion": "3L96",
+        "count_of_violations": "1"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "3J64",
+        "medallion_owner": "KARIOLA TAXI LLC",
+        "count_of_violations": "2",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "1A63",
+        "medallion_owner": "BRIFIL,GARY",
+        "count_of_violations": "1",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "6D69",
+        "medallion_owner": "SINGH,HARJIT",
+        "count_of_violations": "1",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "7J81",
+        "medallion_owner": "WILK CAB CORP",
+        "count_of_violations": "1",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "1Y12",
+        "medallion_owner": "PAUL TRANSIT INC",
+        "count_of_violations": "1",
+        "number_of_drivers": "1"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "KARIOLA TAXI LLC",
+        "count_of_violations": "2",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "17"
+      },
+      {
+        "medallion_owner": "DAMIS, BRUNET",
+        "count_of_violations": "1",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "25"
+      },
+      {
+        "medallion_owner": "SAINVIL,FERNAND,F",
+        "count_of_violations": "1",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "100"
+      },
+      {
+        "medallion_owner": "LIASILV TAXI INC",
+        "count_of_violations": "1",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      },
+      {
+        "medallion_owner": "DESIRE,JACQUELINE",
+        "count_of_violations": "1",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      }
+    ]
+  },
+  {
+    "id": "36",
+    "charge_code": "54-15(F)(2)",
+    "chapter": "54",
+    "part": "15",
+    "subpart": "Operations  General Rules During Operation of Vehicle",
+    "section": "F",
+    "subsection": "E-ZPass Rules",
+    "paragraph": "2",
+    "subparagraph": "The Driver must use E-ZPass at all crossings within the jurisdiction of the Metropolitan Transportation Authority, Triboro Bridge and Tunnel Authority, and wherever else E-ZPass is accepted.",
+    "clause": "",
+    "subclause": "",
+    "description": "Driver must use EZPass wherever it is accepted",
+    "penalty": "Fine: $150 if plead guilty before a hearing; $200 if found guilty following a hearing.",
+    "min_fine": "150",
+    "max_fine": "300",
+    "points": "0",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch54.pdf",
+    "tlc_category": "Overcharges, demands tips, or does not use E-Z Pass",
+    "violations": {
+      "total_violations": "74",
+      "consumer_complaints_2012": "25",
+      "consumer_complaints_percentage_2012": "< 1",
+      "consumer_complaints_2013": "35",
+      "consumer_complaints_percentage_2013": "< 1",
+      "complaints_2012": "37",
+      "complaints_percentage_2012": "< 1",
+      "complaints_2013": "37",
+      "complaints_percentage_2013": "< 1",
+      "consumer_complaints_percentage_pay_summons": "35",
+      "consumer_complaints_percentage_trial": "55",
+      "consumer_complaints_percentage_guilty": "77"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "GREGOIRE,NORMAN,S",
+        "driver_license": "432295",
+        "medallion": "3C36",
+        "count_of_violations": "2"
+      },
+      {
+        "driver_name": "BARRY,MAMADOU,M",
+        "driver_license": "5254101",
+        "medallion": "9N39",
+        "count_of_violations": "2"
+      },
+      {
+        "driver_name": "BASED,MD",
+        "driver_license": "502466",
+        "medallion": "8N70",
+        "count_of_violations": "1"
+      },
+      {
+        "driver_name": "SINGH,HARJINDER",
+        "driver_license": "5140931",
+        "medallion": "6D69",
+        "count_of_violations": "1"
+      },
+      {
+        "driver_name": "HAGGAR,YACOUB,A",
+        "driver_license": "5228268",
+        "medallion": "4D64",
+        "count_of_violations": "1"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "3C36",
+        "medallion_owner": "GREGOIRE,NORMAN,S",
+        "count_of_violations": "2",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "9N39",
+        "medallion_owner": "NIKY CAB CORP",
+        "count_of_violations": "2",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "1B98",
+        "medallion_owner": "SINGH,BALWANT",
+        "count_of_violations": "1",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "6H95",
+        "medallion_owner": "WRESTLER TAXI LLC",
+        "count_of_violations": "1",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "7P77",
+        "medallion_owner": "SUNRISE CAB CORP",
+        "count_of_violations": "1",
+        "number_of_drivers": "1"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "GREGOIRE,NORMAN,S",
+        "count_of_violations": "2",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "25"
+      },
+      {
+        "medallion_owner": "NIKY CAB CORP",
+        "count_of_violations": "2",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "13"
+      },
+      {
+        "medallion_owner": "DUVAL, ELIE",
+        "count_of_violations": "1",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "20"
+      },
+      {
+        "medallion_owner": "SUNRISE CAB CORP",
+        "count_of_violations": "1",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "9"
+      },
+      {
+        "medallion_owner": "MOHAMED, EMAD H.",
+        "count_of_violations": "1",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "25"
+      }
+    ]
+  },
+  {
+    "id": "38",
+    "charge_code": "54-15(F)(4)",
+    "chapter": "54",
+    "part": "15",
+    "subpart": "Operations  General Rules During Operation of Vehicle",
+    "section": "F",
+    "subsection": "E-ZPass Rules",
+    "paragraph": "4",
+    "subparagraph": "A Driver must forward all tolls paid by the Passengers to the holder of the E-ZPass tag at the end of his or her shift or lease period.",
+    "clause": "",
+    "subclause": "",
+    "description": "Driver must forward paid EZPass tolls to EZPass holder",
+    "penalty": "Fine: $50 plus restitution to the E-ZPass tag holder of any amount not reimbursed, and suspension until compliance",
+    "min_fine": "50",
+    "max_fine": "50",
+    "points": "0",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch54.pdf",
+    "tlc_category": "Overcharges, demands tips, or does not use E-Z Pass",
+    "violations": {
+      "total_violations": "1",
+      "consumer_complaints_2012": "1",
+      "consumer_complaints_percentage_2012": "< 1",
+      "consumer_complaints_2013": "0",
+      "consumer_complaints_percentage_2013": "< 1",
+      "complaints_2012": "1",
+      "complaints_percentage_2012": "< 1",
+      "complaints_2013": "0",
+      "complaints_percentage_2013": "< 1",
+      "consumer_complaints_percentage_pay_summons": "0",
+      "consumer_complaints_percentage_trial": "100",
+      "consumer_complaints_percentage_guilty": "100"
+    },
+    "worst_drivers": [
+
+    ],
+    "worst_vehicles": [
+
+    ],
+    "worst_owners": [
+
+    ]
+  },
+  {
+    "id": "6",
+    "charge_code": "54-15(L)",
+    "chapter": "54",
+    "part": "15",
+    "subpart": "Operations  General Rules During Operation of Vehicle",
+    "section": "L",
+    "subsection": "Courtesy. A Driver must be courteous to passengers.",
+    "paragraph": "",
+    "subparagraph": "",
+    "clause": "",
+    "subclause": "",
+    "description": "A Driver must be courteous to passengers.",
+    "penalty": "Fine: $200 if plead guilty before a hearing; $300 if found guilty following a hearing.",
+    "min_fine": "200",
+    "max_fine": "300",
+    "points": "2",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch54.pdf",
+    "tlc_category": "Is rude",
+    "violations": {
+      "total_violations": "2672",
+      "consumer_complaints_2012": "1306",
+      "consumer_complaints_percentage_2012": "9.3",
+      "consumer_complaints_2013": "1358",
+      "consumer_complaints_percentage_2013": "7.4",
+      "complaints_2012": "1307",
+      "complaints_percentage_2012": "2.4",
+      "complaints_2013": "1365",
+      "complaints_percentage_2013": "2.6",
+      "consumer_complaints_percentage_pay_summons": "34",
+      "consumer_complaints_percentage_trial": "50",
+      "consumer_complaints_percentage_guilty": "65"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "KHAN,IQBAL",
+        "driver_license": "5207079",
+        "medallion": "3M84",
+        "count_of_violations": "8"
+      },
+      {
+        "driver_name": "SINGH,SATPARKASH",
+        "driver_license": "5250540",
+        "medallion": "6F26",
+        "count_of_violations": "6"
+      },
+      {
+        "driver_name": "NIANG,AHMADOU",
+        "driver_license": "5220014",
+        "medallion": "7C51",
+        "count_of_violations": "5"
+      },
+      {
+        "driver_name": "HOSSAIN,MOKADESH",
+        "driver_license": "474732",
+        "medallion": "1W57",
+        "count_of_violations": "5"
+      },
+      {
+        "driver_name": "ALI,CHAUDHARY,G",
+        "driver_license": "5367090",
+        "medallion": "5H67",
+        "count_of_violations": "5"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "3M84",
+        "medallion_owner": "ZEISEL HACKING CORP.",
+        "count_of_violations": "8",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "6F26",
+        "medallion_owner": "GOLDY TAXI LLC",
+        "count_of_violations": "7",
+        "number_of_drivers": "2"
+      },
+      {
+        "medallion": "8F54",
+        "medallion_owner": "JACINTHE, YVES",
+        "count_of_violations": "6",
+        "number_of_drivers": "2"
+      },
+      {
+        "medallion": "5B30",
+        "medallion_owner": "GAGAN CAB INC.",
+        "count_of_violations": "5",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "5H67",
+        "medallion_owner": "ISABEL SERVICE CORP",
+        "count_of_violations": "5",
+        "number_of_drivers": "1"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "ZEISEL HACKING CORP.",
+        "count_of_violations": "8",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "25"
+      },
+      {
+        "medallion_owner": "GOLDY TAXI LLC",
+        "count_of_violations": "7",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "67"
+      },
+      {
+        "medallion_owner": "SUGANDA TAXI CLUB CORP",
+        "count_of_violations": "6",
+        "number_of_vehicles": "2",
+        "number_of_drivers": "3",
+        "percent_of_drivers_w_violations": "38"
+      },
+      {
+        "medallion_owner": "PINE OAK TRANS CORP",
+        "count_of_violations": "6",
+        "number_of_vehicles": "2",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "40"
+      },
+      {
+        "medallion_owner": "JACINTHE, YVES",
+        "count_of_violations": "6",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "100"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "charge_code": "54-15(M)(1)",
+    "chapter": "54",
+    "part": "15",
+    "subpart": "Operations  General Rules During Operation of Vehicle",
+    "section": "M",
+    "subsection": "Off Duty Procedures for a Taxicab.",
+    "paragraph": "1",
+    "subparagraph": "Before the Off Duty Change Date. When the Taxicab is operated for personal use, \"Personal Use--Off Duty\" must be keyed into T-PEP (or made on the written Trip Record), and the \"Off Duty\" light must be turned on.",
+    "clause": "",
+    "subclause": "",
+    "description": "Before the Off Duty Change Date. When the Taxicab is operated for personal use, \"Personal Use--Off Duty\" must be keyed into T-PEP (or made on the written Trip Record), and the \"Off Duty\" light must be turned on.",
+    "penalty": "Fine: $100 if plead guilty before a hearing; $150 if found guilty following a hearing.",
+    "min_fine": "100",
+    "max_fine": "150",
+    "points": "0",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch54.pdf",
+    "tlc_category": "Refuses to pick up a passenger",
+    "violations": {
+      "total_violations": "2424",
+      "consumer_complaints_2012": "831",
+      "consumer_complaints_percentage_2012": "5.9",
+      "consumer_complaints_2013": "1336",
+      "consumer_complaints_percentage_2013": "7.3",
+      "complaints_2012": "1057",
+      "complaints_percentage_2012": "1.9",
+      "complaints_2013": "1367",
+      "complaints_percentage_2013": "2.6",
+      "consumer_complaints_percentage_pay_summons": "34",
+      "consumer_complaints_percentage_trial": "52",
+      "consumer_complaints_percentage_guilty": "86"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "AMIN,MD,N",
+        "driver_license": "5154069",
+        "medallion": "4C28",
+        "count_of_violations": "8"
+      },
+      {
+        "driver_name": "ASLAM,MOHAMMAD",
+        "driver_license": "489597",
+        "medallion": "4J87",
+        "count_of_violations": "4"
+      },
+      {
+        "driver_name": "SINGH,LAKHWINDER",
+        "driver_license": "5098138",
+        "medallion": "1F95",
+        "count_of_violations": "4"
+      },
+      {
+        "driver_name": "WAHLA,AYYAZ",
+        "driver_license": "5352566",
+        "medallion": "8L77",
+        "count_of_violations": "4"
+      },
+      {
+        "driver_name": "AMJAD,MOHAMMAD",
+        "driver_license": "5415441",
+        "medallion": "6C26",
+        "count_of_violations": "3"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "4C28",
+        "medallion_owner": "AMIN,MD,N.",
+        "count_of_violations": "8",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "4J87",
+        "medallion_owner": "JASON TRANSIT INC.",
+        "count_of_violations": "5",
+        "number_of_drivers": "2"
+      },
+      {
+        "medallion": "1F95",
+        "medallion_owner": "DESIR,JACQUES",
+        "count_of_violations": "4",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "8L77",
+        "medallion_owner": "KROON SERV CORP",
+        "count_of_violations": "4",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "2A65",
+        "medallion_owner": "TWO A SIXTY FIVE INC",
+        "count_of_violations": "4",
+        "number_of_drivers": "2"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "AMIN,MD,N.",
+        "count_of_violations": "8",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "100"
+      },
+      {
+        "medallion_owner": "A.A.T. TRANS INC",
+        "count_of_violations": "5",
+        "number_of_vehicles": "3",
+        "number_of_drivers": "3",
+        "percent_of_drivers_w_violations": "20"
+      },
+      {
+        "medallion_owner": "JASON TRANSIT INC.",
+        "count_of_violations": "5",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "33"
+      },
+      {
+        "medallion_owner": "MESSADONIS ENTERPRISES INC",
+        "count_of_violations": "4",
+        "number_of_vehicles": "2",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "50"
+      },
+      {
+        "medallion_owner": "MARK CAB CORP",
+        "count_of_violations": "4",
+        "number_of_vehicles": "2",
+        "number_of_drivers": "3",
+        "percent_of_drivers_w_violations": "43"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "charge_code": "54-16(A)",
+    "chapter": "54",
+    "part": "16",
+    "subpart": "Operations  Comply with Reasonable Passenger Requests",
+    "section": "A",
+    "subsection": "Request for Specific Route. The Driver must comply with all reasonable and lawful routing requests of the Passenger. Unless a Passenger makes a specific request, a Driver must proceed to the Passengers destination by the shortest reasonable route.",
+    "paragraph": "",
+    "subparagraph": "",
+    "clause": "",
+    "subclause": "",
+    "description": "The Driver must comply with all reasonable and lawful routing requests of the Passenger.",
+    "penalty": "Fine: $100 if plead guilty before a hearing; $150 if found guilty following a hearing.",
+    "min_fine": "100",
+    "max_fine": "150",
+    "points": "0",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch54.pdf",
+    "tlc_category": "Takes a long route or refuses route requests",
+    "violations": {
+      "total_violations": "1595",
+      "consumer_complaints_2012": "632",
+      "consumer_complaints_percentage_2012": "4.5",
+      "consumer_complaints_2013": "960",
+      "consumer_complaints_percentage_2013": "5.3",
+      "complaints_2012": "635",
+      "complaints_percentage_2012": "1.1",
+      "complaints_2013": "960",
+      "complaints_percentage_2013": "1.8",
+      "consumer_complaints_percentage_pay_summons": "37",
+      "consumer_complaints_percentage_trial": "47",
+      "consumer_complaints_percentage_guilty": "75"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "RUIZ,ALEX,W",
+        "driver_license": "5141266",
+        "medallion": "9T35",
+        "count_of_violations": "5"
+      },
+      {
+        "driver_name": "CADET,JEANMARIE,G",
+        "driver_license": "5062574",
+        "medallion": "6H57",
+        "count_of_violations": "4"
+      },
+      {
+        "driver_name": "MEZMAZ,AHMED",
+        "driver_license": "496682",
+        "medallion": "1P93",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "HASSAIN,AZM,KAISUL",
+        "driver_license": "5191786",
+        "medallion": "1W40",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "BIBIKOFF,BAZYLI,A",
+        "driver_license": "5271781",
+        "medallion": "2F77",
+        "count_of_violations": "3"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "9T35",
+        "medallion_owner": "INOG CAB CORP.",
+        "count_of_violations": "5",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "6H57",
+        "medallion_owner": "SVEGA CAB CORP.",
+        "count_of_violations": "4",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "2V64",
+        "medallion_owner": "ESPERANCE INC",
+        "count_of_violations": "3",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "1J54",
+        "medallion_owner": "MALAKAS LLC",
+        "count_of_violations": "3",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "5B78",
+        "medallion_owner": "WILSON, RADIX",
+        "count_of_violations": "3",
+        "number_of_drivers": "2"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "INOG CAB CORP.",
+        "count_of_violations": "5",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "100"
+      },
+      {
+        "medallion_owner": "SVEGA CAB CORP.",
+        "count_of_violations": "4",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "25"
+      },
+      {
+        "medallion_owner": "IOANNA &amp; MARIA INC.",
+        "count_of_violations": "4",
+        "number_of_vehicles": "2",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "67"
+      },
+      {
+        "medallion_owner": "MALAKAS LLC",
+        "count_of_violations": "3",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "17"
+      },
+      {
+        "medallion_owner": "DAYTONA HACKING CORP.",
+        "count_of_violations": "3",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "25"
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "charge_code": "54-16(G)",
+    "chapter": "54",
+    "part": "16",
+    "subpart": "Operations  Comply with Reasonable Passenger Requests",
+    "section": "G",
+    "subsection": "Other Reasonable Passenger Requests. A Driver must comply with all the reasonable requests of a Passenger, including but not limited to giving his or her name, Taxicab Driver's License number (or the FHV Drivers License number or Paratransit Drivers License Number as applicable) and the Medallion or Street Hail Livery license number.",
+    "paragraph": "",
+    "subparagraph": "",
+    "clause": "",
+    "subclause": "",
+    "description": "Other Reasonable Passenger Requests",
+    "penalty": "",
+    "min_fine": "50",
+    "max_fine": "100",
+    "points": "2",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch54.pdf",
+    "tlc_category": "Refuses passenger requests",
+    "violations": {
+      "total_violations": "596",
+      "consumer_complaints_2012": "370",
+      "consumer_complaints_percentage_2012": "2.6",
+      "consumer_complaints_2013": "226",
+      "consumer_complaints_percentage_2013": "1.2",
+      "complaints_2012": "370",
+      "complaints_percentage_2012": "< 1",
+      "complaints_2013": "226",
+      "complaints_percentage_2013": "< 1",
+      "consumer_complaints_percentage_pay_summons": "14",
+      "consumer_complaints_percentage_trial": "79",
+      "consumer_complaints_percentage_guilty": "36"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "CHEBLI,MED",
+        "driver_license": "5390482",
+        "medallion": "8H61",
+        "count_of_violations": "2"
+      },
+      {
+        "driver_name": "SINGH,PARMJIT",
+        "driver_license": "487660",
+        "medallion": "8T15",
+        "count_of_violations": "2"
+      },
+      {
+        "driver_name": "SINGH,MUKHWINDER",
+        "driver_license": "5303303",
+        "medallion": "8C40",
+        "count_of_violations": "2"
+      },
+      {
+        "driver_name": "HASSAN,LAMEI,A",
+        "driver_license": "5371707",
+        "medallion": "5B98",
+        "count_of_violations": "2"
+      },
+      {
+        "driver_name": "ORFALI,KASSEM",
+        "driver_license": "5205645",
+        "medallion": "9T53",
+        "count_of_violations": "2"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "1J54",
+        "medallion_owner": "MALAKAS LLC",
+        "count_of_violations": "2",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "5B98",
+        "medallion_owner": "ASLANIDIS,HARILAOS,S",
+        "count_of_violations": "2",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "8T15",
+        "medallion_owner": "SINGH,PARMJIT",
+        "count_of_violations": "2",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "4D57",
+        "medallion_owner": "JEAN-PIERRE, LEBON",
+        "count_of_violations": "2",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "8D64",
+        "medallion_owner": "SIERRA, ALVARO",
+        "count_of_violations": "2",
+        "number_of_drivers": "1"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "SPORTING TAXI CORP.",
+        "count_of_violations": "2",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "50"
+      },
+      {
+        "medallion_owner": "SINGH,PARMJIT",
+        "count_of_violations": "2",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "100"
+      },
+      {
+        "medallion_owner": "FIKHMAN,YURIY",
+        "count_of_violations": "2",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      },
+      {
+        "medallion_owner": "GREGOIRE,NORMAN,S",
+        "count_of_violations": "2",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "25"
+      },
+      {
+        "medallion_owner": "ARMAND,FRED",
+        "count_of_violations": "2",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "100"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "charge_code": "54-17(A)(1)",
+    "chapter": "54",
+    "part": "17",
+    "subpart": "Operations  Rates, Charges and Payment",
+    "section": "A",
+    "subsection": "No Overcharges",
+    "paragraph": "1",
+    "subparagraph": "A Driver must not charge or attempt to charge a fare above the Commission-approved rates. This includes a fare in a Street Hail Livery for a Hail Trip.",
+    "clause": "",
+    "subclause": "",
+    "description": "A Driver must not charge or attempt to charge a fare above the Commission-approved rates. This includes a fare in a Street Hail Livery for a Hail Trip.",
+    "penalty": "",
+    "min_fine": "0",
+    "max_fine": "0",
+    "points": "0",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch54.pdf",
+    "tlc_category": "Overcharges, demands tips, or does not use E-Z Pass",
+    "violations": {
+      "total_violations": "4865",
+      "consumer_complaints_2012": "618",
+      "consumer_complaints_percentage_2012": "4.4",
+      "consumer_complaints_2013": "1056",
+      "consumer_complaints_percentage_2013": "5.8",
+      "complaints_2012": "2703",
+      "complaints_percentage_2012": "4.9",
+      "complaints_2013": "2162",
+      "complaints_percentage_2013": "4.1",
+      "consumer_complaints_percentage_pay_summons": "34",
+      "consumer_complaints_percentage_trial": "44",
+      "consumer_complaints_percentage_guilty": "64"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "DIN,AMMAR,L",
+        "driver_license": "5371349",
+        "medallion": "6J71",
+        "count_of_violations": "15"
+      },
+      {
+        "driver_name": "BAH,MAMADOU,M",
+        "driver_license": "5328515",
+        "medallion": "9C77",
+        "count_of_violations": "12"
+      },
+      {
+        "driver_name": "MARWAH,ASHISH,K",
+        "driver_license": "5218544",
+        "medallion": "3E11",
+        "count_of_violations": "11"
+      },
+      {
+        "driver_name": "AHMED,MOHAMED,E",
+        "driver_license": "463062",
+        "medallion": "8L66",
+        "count_of_violations": "9"
+      },
+      {
+        "driver_name": "AMAR,YOUSEF,F",
+        "driver_license": "5406762",
+        "medallion": "5M56",
+        "count_of_violations": "8"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "1F22",
+        "medallion_owner": "GUPTA,KEWAL",
+        "count_of_violations": "15",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "6J71",
+        "medallion_owner": "MESSADOS INC",
+        "count_of_violations": "15",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "3E11",
+        "medallion_owner": "GUNDU,BALDEV,S",
+        "count_of_violations": "12",
+        "number_of_drivers": "2"
+      },
+      {
+        "medallion": "9C77",
+        "medallion_owner": "JOSEPH,VITAL",
+        "count_of_violations": "12",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "8A23",
+        "medallion_owner": "VOLTUS, CHARLES",
+        "count_of_violations": "9",
+        "number_of_drivers": "2"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "MESSADOS INC",
+        "count_of_violations": "17",
+        "number_of_vehicles": "2",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "33"
+      },
+      {
+        "medallion_owner": "GUPTA,KEWAL",
+        "count_of_violations": "15",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "25"
+      },
+      {
+        "medallion_owner": "GUNDU,BALDEV,S",
+        "count_of_violations": "12",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "67"
+      },
+      {
+        "medallion_owner": "A. DUMAS TRANSIT INC",
+        "count_of_violations": "12",
+        "number_of_vehicles": "2",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "40"
+      },
+      {
+        "medallion_owner": "JOSEPH,VITAL",
+        "count_of_violations": "12",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "charge_code": "54-17(A)(5)",
+    "chapter": "54",
+    "part": "17",
+    "subpart": "Operations  Rates, Charges and Payment",
+    "section": "A",
+    "subsection": "No Overcharges",
+    "paragraph": "5",
+    "subparagraph": "A Driver must not ask a Passenger for a tip or indicate that a tip is expected or required.",
+    "clause": "",
+    "subclause": "",
+    "description": "A Driver must not ask a Passenger for a tip or indicate that a tip is expected or required.",
+    "penalty": "",
+    "min_fine": "50",
+    "max_fine": "50",
+    "points": "0",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch54.pdf",
+    "tlc_category": "Overcharges, demands tips, or does not use E-Z Pass",
+    "violations": {
+      "total_violations": "276",
+      "consumer_complaints_2012": "137",
+      "consumer_complaints_percentage_2012": "1.0",
+      "consumer_complaints_2013": "138",
+      "consumer_complaints_percentage_2013": "< 1",
+      "complaints_2012": "138",
+      "complaints_percentage_2012": "< 1",
+      "complaints_2013": "138",
+      "complaints_percentage_2013": "< 1",
+      "consumer_complaints_percentage_pay_summons": "14",
+      "consumer_complaints_percentage_trial": "74",
+      "consumer_complaints_percentage_guilty": "52"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "BHANGU,SWARN",
+        "driver_license": "495616",
+        "medallion": "1A45",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "MALIK,WAHEED",
+        "driver_license": "460746",
+        "medallion": "8H52",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "BISWAS,BIDHAN",
+        "driver_license": "5182137",
+        "medallion": "5C53",
+        "count_of_violations": "2"
+      },
+      {
+        "driver_name": "KHAN,IQBAL",
+        "driver_license": "5207079",
+        "medallion": "3M84",
+        "count_of_violations": "2"
+      },
+      {
+        "driver_name": "OLIVEIRA,RENATO",
+        "driver_license": "485707",
+        "medallion": "5Y11",
+        "count_of_violations": "2"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "1A45",
+        "medallion_owner": "TROYANOVSKY,ARKADY",
+        "count_of_violations": "3",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "7J78",
+        "medallion_owner": "MARIA HILDA TAXI INC.",
+        "count_of_violations": "3",
+        "number_of_drivers": "2"
+      },
+      {
+        "medallion": "8H52",
+        "medallion_owner": "STRAMORE CAB CORP",
+        "count_of_violations": "3",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "1A15",
+        "medallion_owner": "TOPPA,JAWAID,A",
+        "count_of_violations": "2",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "4C96",
+        "medallion_owner": "SU,QUYEN",
+        "count_of_violations": "2",
+        "number_of_drivers": "1"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "STRAMORE CAB CORP",
+        "count_of_violations": "3",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "20"
+      },
+      {
+        "medallion_owner": "MARIA HILDA TAXI INC.",
+        "count_of_violations": "3",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "40"
+      },
+      {
+        "medallion_owner": "TROYANOVSKY,ARKADY",
+        "count_of_violations": "3",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "50"
+      },
+      {
+        "medallion_owner": "DORCEUS, JEAN",
+        "count_of_violations": "2",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      },
+      {
+        "medallion_owner": "MARIA TAXI CORP",
+        "count_of_violations": "2",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "17"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "charge_code": "54-17(E)(1)",
+    "chapter": "54",
+    "part": "17",
+    "subpart": "Operations  Rates, Charges and Payment",
+    "section": "E",
+    "subsection": "Must Accept Credit/Debit Card Payment",
+    "paragraph": "1",
+    "subparagraph": "All Taxicabs are required to be equipped with T-PEP and Drivers must accept a Passengers choice to pay by credit/debit card.",
+    "clause": "",
+    "subclause": "",
+    "description": "All Taxicabs are required to be equipped with T-PEP and Drivers must accept a Passengers choice to pay by credit/debit card.",
+    "penalty": "",
+    "min_fine": "100",
+    "max_fine": "100",
+    "points": "0",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch54.pdf",
+    "tlc_category": "Refuses a credit card",
+    "violations": {
+      "total_violations": "644",
+      "consumer_complaints_2012": "330",
+      "consumer_complaints_percentage_2012": "2.4",
+      "consumer_complaints_2013": "304",
+      "consumer_complaints_percentage_2013": "1.7",
+      "complaints_2012": "338",
+      "complaints_percentage_2012": "< 1",
+      "complaints_2013": "306",
+      "complaints_percentage_2013": "< 1",
+      "consumer_complaints_percentage_pay_summons": "24",
+      "consumer_complaints_percentage_trial": "65",
+      "consumer_complaints_percentage_guilty": "62"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "MARWAH,ASHISH,K",
+        "driver_license": "5218544",
+        "medallion": "3E11",
+        "count_of_violations": "6"
+      },
+      {
+        "driver_name": "KERZHNER,FELIX",
+        "driver_license": "484323",
+        "medallion": "2C47",
+        "count_of_violations": "6"
+      },
+      {
+        "driver_name": "NASEER,HAROON",
+        "driver_license": "5297922",
+        "medallion": "3J27",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "AMIN,MD,N",
+        "driver_license": "5154069",
+        "medallion": "4C28",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "ALI,CHAUDHARY,G",
+        "driver_license": "5367090",
+        "medallion": "5H67",
+        "count_of_violations": "3"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "3E11",
+        "medallion_owner": "GUNDU,BALDEV,S",
+        "count_of_violations": "7",
+        "number_of_drivers": "2"
+      },
+      {
+        "medallion": "2C47",
+        "medallion_owner": "KERZHNER, FELIX",
+        "count_of_violations": "6",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "1P91",
+        "medallion_owner": "DAYTONA HACKING CORP.",
+        "count_of_violations": "4",
+        "number_of_drivers": "2"
+      },
+      {
+        "medallion": "3J27",
+        "medallion_owner": "MEZINI CORP",
+        "count_of_violations": "4",
+        "number_of_drivers": "2"
+      },
+      {
+        "medallion": "4C28",
+        "medallion_owner": "AMIN,MD,N.",
+        "count_of_violations": "3",
+        "number_of_drivers": "1"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "GUNDU,BALDEV,S",
+        "count_of_violations": "7",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "67"
+      },
+      {
+        "medallion_owner": "KERZHNER, FELIX",
+        "count_of_violations": "6",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "100"
+      },
+      {
+        "medallion_owner": "DAYTONA HACKING CORP.",
+        "count_of_violations": "4",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "50"
+      },
+      {
+        "medallion_owner": "MEZINI CORP",
+        "count_of_violations": "4",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "33"
+      },
+      {
+        "medallion_owner": "JETS CAB CORP.",
+        "count_of_violations": "3",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "20"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "charge_code": "54-17(E)(2)",
+    "chapter": "54",
+    "part": "17",
+    "subpart": "Operations  Rates, Charges and Payment",
+    "section": "E",
+    "subsection": "Must Accept Credit/Debit Card Payment",
+    "paragraph": "2",
+    "subparagraph": "A Driver must not pick up or transport a passenger when the system is incapable of accepting or processing credit or debit card transactions, unless prior to engaging the Taximeter, the Driver advises the passenger that he/she will not be able to use a credit or debit card for payment",
+    "clause": "",
+    "subclause": "",
+    "description": "If the credit card machine is down, the driver must tell the passenger before starting the ride.",
+    "penalty": "",
+    "min_fine": "0",
+    "max_fine": "0",
+    "points": "0",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch54.pdf",
+    "tlc_category": "Has broken or missing equipment",
+    "violations": {
+      "total_violations": "146",
+      "consumer_complaints_2012": "83",
+      "consumer_complaints_percentage_2012": "< 1",
+      "consumer_complaints_2013": "63",
+      "consumer_complaints_percentage_2013": "< 1",
+      "complaints_2012": "83",
+      "complaints_percentage_2012": "< 1",
+      "complaints_2013": "63",
+      "complaints_percentage_2013": "< 1",
+      "consumer_complaints_percentage_pay_summons": "13",
+      "consumer_complaints_percentage_trial": "77",
+      "consumer_complaints_percentage_guilty": "44"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "RABINOWITZ,MARVIN,S",
+        "driver_license": "26234",
+        "medallion": "6D13",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "MARWAH,ASHISH,K",
+        "driver_license": "5218544",
+        "medallion": "3E11",
+        "count_of_violations": "2"
+      },
+      {
+        "driver_name": "SADIQ,MALIK,M",
+        "driver_license": "484924",
+        "medallion": "1C29",
+        "count_of_violations": "2"
+      },
+      {
+        "driver_name": "KHAN,IQBAL",
+        "driver_license": "5207079",
+        "medallion": "3M84",
+        "count_of_violations": "2"
+      },
+      {
+        "driver_name": "ANDRE,LEONCE",
+        "driver_license": "485915",
+        "medallion": "4E99",
+        "count_of_violations": "2"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "6D13",
+        "medallion_owner": "RABINOWITZ, MARVIN S.",
+        "count_of_violations": "3",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "3F44",
+        "medallion_owner": "VIRGILI, PIETRO",
+        "count_of_violations": "2",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "4E99",
+        "medallion_owner": "GERMOSEN,MARIANA",
+        "count_of_violations": "2",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "6C86",
+        "medallion_owner": "SINGH,DALIP",
+        "count_of_violations": "2",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "1C29",
+        "medallion_owner": "B &amp; L CAB CORP",
+        "count_of_violations": "2",
+        "number_of_drivers": "1"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "RABINOWITZ, MARVIN S.",
+        "count_of_violations": "3",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "100"
+      },
+      {
+        "medallion_owner": "GERMOSEN,MARIANA",
+        "count_of_violations": "2",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      },
+      {
+        "medallion_owner": "GUNDU,BALDEV,S",
+        "count_of_violations": "2",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      },
+      {
+        "medallion_owner": "SINGH,DALIP",
+        "count_of_violations": "2",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      },
+      {
+        "medallion_owner": "VIRGILI, PIETRO",
+        "count_of_violations": "2",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "charge_code": "54-17(F)",
+    "chapter": "54",
+    "part": "17",
+    "subpart": "Operations  Rates, Charges and Payment",
+    "section": "F",
+    "subsection": "No Mark-up for Credit Payment. A Driver must not charge any additional fee (mark-up) to any Passenger for credit/debit card transactions for any Trip in a Taxicab or for any Hail Trip in a Street Hail Livery.",
+    "paragraph": "",
+    "subparagraph": "",
+    "clause": "",
+    "subclause": "",
+    "description": "Driver can't charge a fee for credit card transaction.",
+    "penalty": "Fine: First violation: $200  Second violation: $300 Third violation: $500  In addition to the penalty payable to the Commission, the administrative law judge may order the Driver to pay restitution to the Passenger, equal to the excess amount that was charged to the Passenger.",
+    "min_fine": "200",
+    "max_fine": "300",
+    "points": "0",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch54.pdf",
+    "tlc_category": "Report other fare problems when using a credit card.",
+    "violations": {
+      "total_violations": "27",
+      "consumer_complaints_2012": "13",
+      "consumer_complaints_percentage_2012": "< 1",
+      "consumer_complaints_2013": "14",
+      "consumer_complaints_percentage_2013": "< 1",
+      "complaints_2012": "13",
+      "complaints_percentage_2012": "< 1",
+      "complaints_2013": "14",
+      "complaints_percentage_2013": "< 1",
+      "consumer_complaints_percentage_pay_summons": "32",
+      "consumer_complaints_percentage_trial": "60",
+      "consumer_complaints_percentage_guilty": "72"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "AHMAD,SOHAIL",
+        "driver_license": "5243316",
+        "medallion": "4E96",
+        "count_of_violations": "2"
+      },
+      {
+        "driver_name": "SINGH,SWARAN",
+        "driver_license": "481746",
+        "medallion": "7G16",
+        "count_of_violations": "1"
+      },
+      {
+        "driver_name": "MUNDLURI,VENKATA",
+        "driver_license": "5187236",
+        "medallion": "2W28",
+        "count_of_violations": "1"
+      },
+      {
+        "driver_name": "CHOUDHURY,MAHBUB",
+        "driver_license": "421851",
+        "medallion": "3D55",
+        "count_of_violations": "1"
+      },
+      {
+        "driver_name": "SINGH,JORA",
+        "driver_license": "5155678",
+        "medallion": "6M36",
+        "count_of_violations": "1"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "4E96",
+        "medallion_owner": "LAL,MADAN",
+        "count_of_violations": "2",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "2G15",
+        "medallion_owner": "GURLEEN CAB CORP.",
+        "count_of_violations": "1",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "7N75",
+        "medallion_owner": "JAFA'S OWN TAXI INC",
+        "count_of_violations": "1",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "3D55",
+        "medallion_owner": "CHOUDHURY,MAHBUB",
+        "count_of_violations": "1",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "7G16",
+        "medallion_owner": "PINE OAK TRANS CORP",
+        "count_of_violations": "1",
+        "number_of_drivers": "1"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "LAL,MADAN",
+        "count_of_violations": "2",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "25"
+      },
+      {
+        "medallion_owner": "SHOE TAXI CORP",
+        "count_of_violations": "1",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "14"
+      },
+      {
+        "medallion_owner": "SINGH,BALWINDER",
+        "count_of_violations": "1",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "4"
+      },
+      {
+        "medallion_owner": "CHOUDHURY,MAHBUB",
+        "count_of_violations": "1",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      },
+      {
+        "medallion_owner": "DRAMBUI TAXI INC",
+        "count_of_violations": "1",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "20"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "charge_code": "54-20(A)(1)",
+    "chapter": "54",
+    "part": "20",
+    "subpart": "Operations  Refusing Passengers",
+    "section": "A",
+    "subsection": "Must Not Refuse to Transport Passengers",
+    "paragraph": "1",
+    "subparagraph": "Mandatory Transport. A Driver must not refuse by words, gestures or any other means, to take a Passenger, including a person with a disability and any service animal accompanying this individual, to any destination within the City of New York, the counties of Westchester or Nassau, or Newark Airport.",
+    "clause": "",
+    "subclause": "",
+    "description": "Mandatory Transport. A Driver must not refuse by words, gestures or any other means, to take a Passenger, including a person with a disability and any service animal accompanying this individual, to any destination within the City of New York, the counties of Westchester or Nassau, or Newark Airport.",
+    "penalty": "First violation: $350 if plead guilty before a hearing; $500 if found guilty following a hearing. Second violation (any combination of violations) w/in 24 months: $700 if plead guilty before a hearing; $1,000 and possible suspension of License for up to 30 days if found guilty following a hearing. Third violation (any combination of violations) w/in 36 months: $750 and Revocation of License if plead guilty before a hearing; $1,000 and Revocation of License if found guilty following a hearing.",
+    "min_fine": "350",
+    "max_fine": "500",
+    "points": "0",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch54.pdf",
+    "tlc_category": "Refuses to pick up a passenger",
+    "violations": {
+      "total_violations": "7738",
+      "consumer_complaints_2012": "3110",
+      "consumer_complaints_percentage_2012": "22.2",
+      "consumer_complaints_2013": "3894",
+      "consumer_complaints_percentage_2013": "21.4",
+      "complaints_2012": "3584",
+      "complaints_percentage_2012": "6.5",
+      "complaints_2013": "4154",
+      "complaints_percentage_2013": "7.8",
+      "consumer_complaints_percentage_pay_summons": "34",
+      "consumer_complaints_percentage_trial": "39",
+      "consumer_complaints_percentage_guilty": "69"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "AMIN,MD,N",
+        "driver_license": "5154069",
+        "medallion": "4C28",
+        "count_of_violations": "28"
+      },
+      {
+        "driver_name": "SINGH,LAKHWINDER",
+        "driver_license": "5098138",
+        "medallion": "1F95",
+        "count_of_violations": "10"
+      },
+      {
+        "driver_name": "MALIK,SHAHID,A",
+        "driver_license": "492027",
+        "medallion": "5E98",
+        "count_of_violations": "10"
+      },
+      {
+        "driver_name": "ALI,CHAUDHARY,G",
+        "driver_license": "5367090",
+        "medallion": "5H67",
+        "count_of_violations": "9"
+      },
+      {
+        "driver_name": "ASADUZZAMAN,KAZI",
+        "driver_license": "5144112",
+        "medallion": "9D22",
+        "count_of_violations": "8"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "4C28",
+        "medallion_owner": "AMIN,MD,N.",
+        "count_of_violations": "28",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "5E98",
+        "medallion_owner": "REHAN CAB CORP.",
+        "count_of_violations": "10",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "1F95",
+        "medallion_owner": "DESIR,JACQUES",
+        "count_of_violations": "10",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "5H67",
+        "medallion_owner": "ISABEL SERVICE CORP",
+        "count_of_violations": "9",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "8J36",
+        "medallion_owner": "LABEL TAXI INC",
+        "count_of_violations": "9",
+        "number_of_drivers": "2"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "AMIN,MD,N.",
+        "count_of_violations": "28",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "100"
+      },
+      {
+        "medallion_owner": "SINGH,JASWINDER",
+        "count_of_violations": "11",
+        "number_of_vehicles": "5",
+        "number_of_drivers": "5",
+        "percent_of_drivers_w_violations": "19"
+      },
+      {
+        "medallion_owner": "ISABEL SERVICE CORP",
+        "count_of_violations": "10",
+        "number_of_vehicles": "2",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "25"
+      },
+      {
+        "medallion_owner": "DESIR,JACQUES",
+        "count_of_violations": "10",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      },
+      {
+        "medallion_owner": "LABEL TAXI INC",
+        "count_of_violations": "10",
+        "number_of_vehicles": "2",
+        "number_of_drivers": "3",
+        "percent_of_drivers_w_violations": "60"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "charge_code": "54-20(A)(4)",
+    "chapter": "54",
+    "part": "20",
+    "subpart": "Operations  Refusing Passengers",
+    "section": "A",
+    "subsection": "Must Not Refuse to Transport Passengers",
+    "paragraph": "4",
+    "subparagraph": "Destination in Advance. A Driver must not attempt to learn the destination of a Passenger before the Passenger is seated in the Taxicab or, for a Hail Trip started in the Hail Zone, in the Street Hail Livery.",
+    "clause": "",
+    "subclause": "",
+    "description": "Destination in Advance. A Driver must not attempt to learn the destination of a Passenger before the Passenger is seated in the Taxicab or, for a Hail Trip started in the Hail Zone, in the Street Hail Livery.",
+    "penalty": "First violation: $350 if plead guilty before a hearing; $500 if found guilty following a hearing. Second violation (any combination of violations) w/in 24 months: $700 if plead guilty before a hearing; $1,000 and possible suspension of License for up to 30 days if found guilty following a hearing. Third violation (any combination of violations) w/in 36 months: $750 and Revocation of License if plead guilty before a hearing; $1,000 and Revocation of License if found guilty following a hearing.",
+    "min_fine": "350",
+    "max_fine": "500",
+    "points": "0",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch54.pdf",
+    "tlc_category": "Refuses to pick up a passenger",
+    "violations": {
+      "total_violations": "950",
+      "consumer_complaints_2012": "426",
+      "consumer_complaints_percentage_2012": "3.0",
+      "consumer_complaints_2013": "450",
+      "consumer_complaints_percentage_2013": "2.5",
+      "complaints_2012": "451",
+      "complaints_percentage_2012": "< 1",
+      "complaints_2013": "499",
+      "complaints_percentage_2013": "< 1",
+      "consumer_complaints_percentage_pay_summons": "6",
+      "consumer_complaints_percentage_trial": "87",
+      "consumer_complaints_percentage_guilty": "24"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "AMIN,MD,N",
+        "driver_license": "5154069",
+        "medallion": "4C28",
+        "count_of_violations": "9"
+      },
+      {
+        "driver_name": "KHAN,IQBAL",
+        "driver_license": "5207079",
+        "medallion": "3M84",
+        "count_of_violations": "4"
+      },
+      {
+        "driver_name": "SINGH,LAKHWINDER",
+        "driver_license": "5098138",
+        "medallion": "1F95",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "ATIF,ZARRIN",
+        "driver_license": "5356999",
+        "medallion": "9N72",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "ARSHAD,OMEIR",
+        "driver_license": "5412603",
+        "medallion": "9E27",
+        "count_of_violations": "3"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "4C28",
+        "medallion_owner": "AMIN,MD,N.",
+        "count_of_violations": "9",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "3T42",
+        "medallion_owner": "ASGHAR,FAISAL",
+        "count_of_violations": "4",
+        "number_of_drivers": "2"
+      },
+      {
+        "medallion": "3M84",
+        "medallion_owner": "ZEISEL HACKING CORP.",
+        "count_of_violations": "4",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "9N72",
+        "medallion_owner": "BENE CAB CORP",
+        "count_of_violations": "3",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "1F95",
+        "medallion_owner": "DESIR,JACQUES",
+        "count_of_violations": "3",
+        "number_of_drivers": "1"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "AMIN,MD,N.",
+        "count_of_violations": "9",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "100"
+      },
+      {
+        "medallion_owner": "ASGHAR,FAISAL",
+        "count_of_violations": "4",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "2",
+        "percent_of_drivers_w_violations": "67"
+      },
+      {
+        "medallion_owner": "SINGH,KULDIP",
+        "count_of_violations": "4",
+        "number_of_vehicles": "3",
+        "number_of_drivers": "4",
+        "percent_of_drivers_w_violations": "57"
+      },
+      {
+        "medallion_owner": "ZEISEL HACKING CORP.",
+        "count_of_violations": "4",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "25"
+      },
+      {
+        "medallion_owner": "DESIR,JACQUES",
+        "count_of_violations": "3",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      }
+    ]
+  },
+  {
+    "id": "35",
+    "charge_code": "54-22(D)",
+    "chapter": "54",
+    "part": "22",
+    "subpart": "Vehicle  Operation and Condition",
+    "section": "D",
+    "subsection": "Clean Interior. During his or her work shift, a Driver must keep the Vehicles interior clean.",
+    "paragraph": "",
+    "subparagraph": "",
+    "clause": "",
+    "subclause": "",
+    "description": "",
+    "penalty": "",
+    "min_fine": "50",
+    "max_fine": "50",
+    "points": "0",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch54.pdf",
+    "tlc_category": "Is dirty",
+    "violations": {
+      "total_violations": "46",
+      "consumer_complaints_2012": "14",
+      "consumer_complaints_percentage_2012": "< 1",
+      "consumer_complaints_2013": "20",
+      "consumer_complaints_percentage_2013": "< 1",
+      "complaints_2012": "16",
+      "complaints_percentage_2012": "< 1",
+      "complaints_2013": "30",
+      "complaints_percentage_2013": "< 1",
+      "consumer_complaints_percentage_pay_summons": "18",
+      "consumer_complaints_percentage_trial": "73",
+      "consumer_complaints_percentage_guilty": "61"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "MINHAZUDDIN,MOHAMMAD",
+        "driver_license": "471620",
+        "medallion": "6N75",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "RAHMAN,MOHAMMED,M",
+        "driver_license": "475487",
+        "medallion": "2T15",
+        "count_of_violations": "1"
+      },
+      {
+        "driver_name": "KHAN,ZAKIR,H",
+        "driver_license": "5195506",
+        "medallion": "6E80",
+        "count_of_violations": "1"
+      },
+      {
+        "driver_name": "AYYAD,MOHAMMED,A",
+        "driver_license": "5395903",
+        "medallion": "7C26",
+        "count_of_violations": "1"
+      },
+      {
+        "driver_name": "SHAD,LIAQAT,A",
+        "driver_license": "457476",
+        "medallion": "8C60",
+        "count_of_violations": "1"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "6N75",
+        "medallion_owner": "LAJ CAB CORP",
+        "count_of_violations": "3",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "1A11",
+        "medallion_owner": "YOON, DAE JIN",
+        "count_of_violations": "1",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "5C54",
+        "medallion_owner": "VIXAMAR,MAURICE,S",
+        "count_of_violations": "1",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "7K23",
+        "medallion_owner": "N.Y. EDGE TAXI CORP",
+        "count_of_violations": "1",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "3J27",
+        "medallion_owner": "MEZINI CORP",
+        "count_of_violations": "1",
+        "number_of_drivers": "1"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "LAJ CAB CORP",
+        "count_of_violations": "3",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "20"
+      },
+      {
+        "medallion_owner": "TISTA RIVER LLC",
+        "count_of_violations": "1",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      },
+      {
+        "medallion_owner": "YOON, DAE JIN",
+        "count_of_violations": "1",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "100"
+      },
+      {
+        "medallion_owner": "BAYACOUB,FAHMI",
+        "count_of_violations": "1",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      },
+      {
+        "medallion_owner": "FIRST MJY LLC",
+        "count_of_violations": "1",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "charge_code": "54-23(A)(2)",
+    "chapter": "54",
+    "part": "23",
+    "subpart": "Vehicle  Items Required to be in the Vehicle",
+    "section": "A",
+    "subsection": "Items Required in Vehicle. A Driver must not operate a Taxicab or Street Hail Livery unless the Vehicle is equipped or provided with the following:",
+    "paragraph": "2",
+    "subparagraph": "The Taxicab Driver's License in the appropriate frame (or, as applicable, the For-Hire Driver's License or Paratransit License if the vehicle is a Street Hail Livery being operated by a For-Hire Driver or Paratransit Driver).",
+    "clause": "",
+    "subclause": "",
+    "description": "The Taxicab Driver's License in the appropriate frame (or, as applicable, the For-Hire Driver's License or Paratransit License if the vehicle is a Street Hail Livery being operated by a For-Hire Driver or Paratransit Driver).",
+    "penalty": "",
+    "min_fine": "100",
+    "max_fine": "150",
+    "points": "2",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch54.pdf",
+    "tlc_category": "Fails to display a license",
+    "violations": {
+      "total_violations": "2836",
+      "consumer_complaints_2012": "169",
+      "consumer_complaints_percentage_2012": "1.2",
+      "consumer_complaints_2013": "163",
+      "consumer_complaints_percentage_2013": "< 1",
+      "complaints_2012": "1538",
+      "complaints_percentage_2012": "2.8",
+      "complaints_2013": "1298",
+      "complaints_percentage_2013": "2.5",
+      "consumer_complaints_percentage_pay_summons": "16",
+      "consumer_complaints_percentage_trial": "73",
+      "consumer_complaints_percentage_guilty": "48"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "ALI,SHAFAQAT",
+        "driver_license": "494094",
+        "medallion": "9C80",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "RASOOL,MAJID",
+        "driver_license": "5311310",
+        "medallion": "2B66",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "JENDOUBI,MONCEF",
+        "driver_license": "5355371",
+        "medallion": "5F65",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "SABOR,ALTAHIR,SHUMU",
+        "driver_license": "5431690",
+        "medallion": "1W60",
+        "count_of_violations": "3"
+      },
+      {
+        "driver_name": "TADROS,EMAD,S",
+        "driver_license": "5337827",
+        "medallion": "7A36",
+        "count_of_violations": "2"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "1M67",
+        "medallion_owner": "SAMSON TRANSPORT LLC",
+        "count_of_violations": "4",
+        "number_of_drivers": "3"
+      },
+      {
+        "medallion": "3F95",
+        "medallion_owner": "SIDDIQUI,FAROOQ",
+        "count_of_violations": "4",
+        "number_of_drivers": "3"
+      },
+      {
+        "medallion": "4B20",
+        "medallion_owner": "CIOMO, CAROLINE",
+        "count_of_violations": "3",
+        "number_of_drivers": "2"
+      },
+      {
+        "medallion": "7F23",
+        "medallion_owner": "GUE,GUEPSON &amp; DARIUS,ARNOLD",
+        "count_of_violations": "3",
+        "number_of_drivers": "2"
+      },
+      {
+        "medallion": "1W60",
+        "medallion_owner": "NATOOSH TRANS CORP",
+        "count_of_violations": "3",
+        "number_of_drivers": "1"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "SIGROU INC",
+        "count_of_violations": "6",
+        "number_of_vehicles": "3",
+        "number_of_drivers": "5",
+        "percent_of_drivers_w_violations": "38"
+      },
+      {
+        "medallion_owner": "BURSA CAB CORP",
+        "count_of_violations": "4",
+        "number_of_vehicles": "2",
+        "number_of_drivers": "3",
+        "percent_of_drivers_w_violations": "50"
+      },
+      {
+        "medallion_owner": "SIDDIQUI,FAROOQ",
+        "count_of_violations": "4",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "3",
+        "percent_of_drivers_w_violations": "75"
+      },
+      {
+        "medallion_owner": "SAMSON TRANSPORT LLC",
+        "count_of_violations": "4",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "3",
+        "percent_of_drivers_w_violations": "50"
+      },
+      {
+        "medallion_owner": "CALL FIRST TAXI, LLC",
+        "count_of_violations": "3",
+        "number_of_vehicles": "2",
+        "number_of_drivers": "3",
+        "percent_of_drivers_w_violations": "50"
+      }
+    ]
+  },
+  {
+    "id": "31",
+    "charge_code": "55-12(K)",
+    "chapter": "55",
+    "part": "12",
+    "subpart": "Comply with Laws  Proper Conduct",
+    "section": "K",
+    "subsection": "Courtesy. A Licensee will be courteous to Passengers.",
+    "paragraph": "",
+    "subparagraph": "",
+    "clause": "",
+    "subclause": "",
+    "description": "Courtesy. A Licensee will be courteous to Passengers.",
+    "penalty": "",
+    "min_fine": "200",
+    "max_fine": "300",
+    "points": "0",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch55.pdf",
+    "tlc_category": "Is rude",
+    "violations": {
+      "total_violations": "209",
+      "consumer_complaints_2012": "48",
+      "consumer_complaints_percentage_2012": "< 1",
+      "consumer_complaints_2013": "158",
+      "consumer_complaints_percentage_2013": "< 1",
+      "complaints_2012": "51",
+      "complaints_percentage_2012": "< 1",
+      "complaints_2013": "158",
+      "complaints_percentage_2013": "< 1",
+      "consumer_complaints_percentage_pay_summons": "33",
+      "consumer_complaints_percentage_trial": "45",
+      "consumer_complaints_percentage_guilty": "76"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "AGOSU,ABIODUN,C",
+        "driver_license": "5290267",
+        "medallion": "8B99",
+        "count_of_violations": "2"
+      },
+      {
+        "driver_name": "SINGH,KULDIP",
+        "driver_license": "5233031",
+        "medallion": "7F91",
+        "count_of_violations": "2"
+      },
+      {
+        "driver_name": "KALAVANT,AMJADKHAN,K",
+        "driver_license": "5287940",
+        "medallion": "5A82",
+        "count_of_violations": "1"
+      },
+      {
+        "driver_name": "DIALLO,AMADOU,B",
+        "driver_license": "5113159",
+        "medallion": "9P80",
+        "count_of_violations": "1"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "7F91",
+        "medallion_owner": "DHAWAN,AMARJEET",
+        "count_of_violations": "2",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "8B99",
+        "medallion_owner": "SIRUNI, ASHOT",
+        "count_of_violations": "2",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "5A82",
+        "medallion_owner": "SPIROS, ANGELIDIS",
+        "count_of_violations": "1",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "9P80",
+        "medallion_owner": "MASH CAB CORP",
+        "count_of_violations": "1",
+        "number_of_drivers": "1"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "DHAWAN,AMARJEET",
+        "count_of_violations": "2",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "50"
+      },
+      {
+        "medallion_owner": "SIRUNI, ASHOT",
+        "count_of_violations": "2",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      },
+      {
+        "medallion_owner": "MASH CAB CORP",
+        "count_of_violations": "1",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "14"
+      },
+      {
+        "medallion_owner": "SPIROS, ANGELIDIS",
+        "count_of_violations": "1",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "33"
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "charge_code": "55-13(A)(1)",
+    "chapter": "55",
+    "part": "13",
+    "subpart": "Comply with Laws  Traffic Laws",
+    "section": "A",
+    "subsection": "Compliance with Traffic Laws. A For-Hire Driver must comply with all applicable traffic laws, rules and regulations.",
+    "paragraph": "1",
+    "subparagraph": "Laws, rules or regulations governing stationary vehicles.",
+    "clause": "",
+    "subclause": "",
+    "description": "A For-Hire Driver must comply with all applicable traffic laws, rules and regulations.  Laws, rules or regulations governing stationary vehicles.",
+    "penalty": "",
+    "min_fine": "100",
+    "max_fine": "200",
+    "points": "0",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch55.pdf",
+    "tlc_category": "Is reckless or unsafe if you were not the passenger",
+    "violations": {
+      "total_violations": "4726",
+      "consumer_complaints_2012": "24",
+      "consumer_complaints_percentage_2012": "< 1",
+      "consumer_complaints_2013": "241",
+      "consumer_complaints_percentage_2013": "1.3",
+      "complaints_2012": "1922",
+      "complaints_percentage_2012": "3.5",
+      "complaints_2013": "2804",
+      "complaints_percentage_2013": "5.3",
+      "consumer_complaints_percentage_pay_summons": "34",
+      "consumer_complaints_percentage_trial": "36",
+      "consumer_complaints_percentage_guilty": "75"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "TUFFOUR,EDWARD,O",
+        "driver_license": "5247707",
+        "medallion": "2J85",
+        "count_of_violations": "2"
+      },
+      {
+        "driver_name": "SHRESTHA,RAJ,K",
+        "driver_license": "5395736",
+        "medallion": "1T71",
+        "count_of_violations": "1"
+      },
+      {
+        "driver_name": "ISLAM,MOHAMMED,T",
+        "driver_license": "5117954",
+        "medallion": "2V85",
+        "count_of_violations": "1"
+      },
+      {
+        "driver_name": "GHANEM,WALID,A",
+        "driver_license": "5144470",
+        "medallion": "5G69",
+        "count_of_violations": "1"
+      },
+      {
+        "driver_name": "KHAN,HASNAT",
+        "driver_license": "5237354",
+        "medallion": "3A44",
+        "count_of_violations": "1"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "2J85",
+        "medallion_owner": "RUSSBRO CORPORATION",
+        "count_of_violations": "2",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "1B11",
+        "medallion_owner": "BANISOR,TRAIAN",
+        "count_of_violations": "1",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "5F87",
+        "medallion_owner": "LEGER FIRST STEP INC",
+        "count_of_violations": "1",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "5P90",
+        "medallion_owner": "SPARTI TAXI INC",
+        "count_of_violations": "1",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "1T71",
+        "medallion_owner": "NALIME CAB LLC",
+        "count_of_violations": "1",
+        "number_of_drivers": "1"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "RUSSBRO CORPORATION",
+        "count_of_violations": "2",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "17"
+      },
+      {
+        "medallion_owner": "CARLA CAB CORP",
+        "count_of_violations": "1",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "17"
+      },
+      {
+        "medallion_owner": "PINECONE TAXI SERV INC.",
+        "count_of_violations": "1",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "17"
+      },
+      {
+        "medallion_owner": "LEFEVRE,WESNER",
+        "count_of_violations": "1",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "17"
+      },
+      {
+        "medallion_owner": "COMMISSION CAB CORP",
+        "count_of_violations": "1",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "14"
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "charge_code": "55-13(A)(1)",
+    "chapter": "55",
+    "part": "13",
+    "subpart": "Comply with Laws  Traffic Laws",
+    "section": "A",
+    "subsection": "Compliance with Traffic Laws. A For-Hire Driver must comply with all applicable traffic laws, rules and regulations.",
+    "paragraph": "1",
+    "subparagraph": "Laws, rules or regulations governing stationary vehicles.",
+    "clause": "",
+    "subclause": "",
+    "description": "A For-Hire Driver must comply with all applicable traffic laws, rules and regulations.  Laws, rules or regulations governing stationary vehicles.",
+    "penalty": "",
+    "min_fine": "100",
+    "max_fine": "200",
+    "points": "0",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch55.pdf",
+    "tlc_category": "Is reckless or unsafe if you were the passenger",
+    "violations": {
+      "total_violations": "4726",
+      "consumer_complaints_2012": "24",
+      "consumer_complaints_percentage_2012": "< 1",
+      "consumer_complaints_2013": "241",
+      "consumer_complaints_percentage_2013": "1.3",
+      "complaints_2012": "1922",
+      "complaints_percentage_2012": "3.5",
+      "complaints_2013": "2804",
+      "complaints_percentage_2013": "5.3",
+      "consumer_complaints_percentage_pay_summons": "34",
+      "consumer_complaints_percentage_trial": "36",
+      "consumer_complaints_percentage_guilty": "75"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "TUFFOUR,EDWARD,O",
+        "driver_license": "5247707",
+        "medallion": "2J85",
+        "count_of_violations": "2"
+      },
+      {
+        "driver_name": "SHRESTHA,RAJ,K",
+        "driver_license": "5395736",
+        "medallion": "1T71",
+        "count_of_violations": "1"
+      },
+      {
+        "driver_name": "ISLAM,MOHAMMED,T",
+        "driver_license": "5117954",
+        "medallion": "2V85",
+        "count_of_violations": "1"
+      },
+      {
+        "driver_name": "GHANEM,WALID,A",
+        "driver_license": "5144470",
+        "medallion": "5G69",
+        "count_of_violations": "1"
+      },
+      {
+        "driver_name": "KHAN,HASNAT",
+        "driver_license": "5237354",
+        "medallion": "3A44",
+        "count_of_violations": "1"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "2J85",
+        "medallion_owner": "RUSSBRO CORPORATION",
+        "count_of_violations": "2",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "1B11",
+        "medallion_owner": "BANISOR,TRAIAN",
+        "count_of_violations": "1",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "5F87",
+        "medallion_owner": "LEGER FIRST STEP INC",
+        "count_of_violations": "1",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "5P90",
+        "medallion_owner": "SPARTI TAXI INC",
+        "count_of_violations": "1",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "1T71",
+        "medallion_owner": "NALIME CAB LLC",
+        "count_of_violations": "1",
+        "number_of_drivers": "1"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "RUSSBRO CORPORATION",
+        "count_of_violations": "2",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "17"
+      },
+      {
+        "medallion_owner": "CARLA CAB CORP",
+        "count_of_violations": "1",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "17"
+      },
+      {
+        "medallion_owner": "PINECONE TAXI SERV INC.",
+        "count_of_violations": "1",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "17"
+      },
+      {
+        "medallion_owner": "LEFEVRE,WESNER",
+        "count_of_violations": "1",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "17"
+      },
+      {
+        "medallion_owner": "COMMISSION CAB CORP",
+        "count_of_violations": "1",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "14"
+      }
+    ]
+  },
+  {
+    "id": "33",
+    "charge_code": "55-14(G)(1)",
+    "chapter": "55",
+    "part": "14",
+    "subpart": "Operations  Passenger and Driver Safety",
+    "section": "G",
+    "subsection": "Use of an Electronic Communication Device.",
+    "paragraph": "1",
+    "subparagraph": "A Driver must not Use an Electronic Communication Device while operating a Vehicle. A Driver can Use an Electronic Communication Device only while the Vehicle is lawfully standing or parked.",
+    "clause": "",
+    "subclause": "",
+    "description": "A Driver must not Use an Electronic Communication Device while operating a Vehicle. A Driver can Use an Electronic Communication Device only while the Vehicle is lawfully standing or parked.",
+    "penalty": "Fine: $250 if plead guilty before a hearing; $350 if found guilty following a hearing, and suspension. The suspension is deferred for 60 days; if the driver completes a Distracted Driving Course within the 60-day period then the driver will not be suspended.  Points: 3 for the first offense and for the second offense in any 15-month period; 4 for third offense in any 15-month period.",
+    "min_fine": "250",
+    "max_fine": "350",
+    "points": "3",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch55.pdf",
+    "tlc_category": "Uses a cell phone while driving",
+    "violations": {
+      "total_violations": "1665",
+      "consumer_complaints_2012": "19",
+      "consumer_complaints_percentage_2012": "< 1",
+      "consumer_complaints_2013": "85",
+      "consumer_complaints_percentage_2013": "< 1",
+      "complaints_2012": "575",
+      "complaints_percentage_2012": "1.0",
+      "complaints_2013": "1090",
+      "complaints_percentage_2013": "2.1",
+      "consumer_complaints_percentage_pay_summons": "45",
+      "consumer_complaints_percentage_trial": "34",
+      "consumer_complaints_percentage_guilty": "77"
+    },
+    "worst_drivers": [
+      {
+        "driver_name": "IQBAL,NAVEED",
+        "driver_license": "487951",
+        "medallion": "8J60",
+        "count_of_violations": "1"
+      },
+      {
+        "driver_name": "OPULE,AHMAD,YOUNAS",
+        "driver_license": "5169456",
+        "medallion": "3M15",
+        "count_of_violations": "1"
+      },
+      {
+        "driver_name": "AL-MAHMUD,MOHAMMAD",
+        "driver_license": "5302767",
+        "medallion": "8E71",
+        "count_of_violations": "1"
+      },
+      {
+        "driver_name": "JEAN-JACQUES,PIERRE",
+        "driver_license": "434593",
+        "medallion": "3F98",
+        "count_of_violations": "1"
+      },
+      {
+        "driver_name": "AKHTAR,MOHAMMAD",
+        "driver_license": "5143162",
+        "medallion": "2M74",
+        "count_of_violations": "1"
+      }
+    ],
+    "worst_vehicles": [
+      {
+        "medallion": "1A94",
+        "medallion_owner": "LOUISOR, MAX",
+        "count_of_violations": "1",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "3P12",
+        "medallion_owner": "SANNU CAB CORPORATION",
+        "count_of_violations": "1",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "7Y93",
+        "medallion_owner": "SEMANDUYEV,YURIY",
+        "count_of_violations": "1",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "8J60",
+        "medallion_owner": "LIPA CAB CORP",
+        "count_of_violations": "1",
+        "number_of_drivers": "1"
+      },
+      {
+        "medallion": "3M15",
+        "medallion_owner": "CRASHLESS TAXI CORP",
+        "count_of_violations": "1",
+        "number_of_drivers": "1"
+      }
+    ],
+    "worst_owners": [
+      {
+        "medallion_owner": "LUTFI,RAJAI,J",
+        "count_of_violations": "1",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "50"
+      },
+      {
+        "medallion_owner": "OVERTRAN INC",
+        "count_of_violations": "1",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "25"
+      },
+      {
+        "medallion_owner": "SANNU CAB CORPORATION",
+        "count_of_violations": "1",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "13"
+      },
+      {
+        "medallion_owner": "SINGH,JARNAIL",
+        "count_of_violations": "1",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "20"
+      },
+      {
+        "medallion_owner": "AHMED, IFTEKHAR",
+        "count_of_violations": "1",
+        "number_of_vehicles": "1",
+        "number_of_drivers": "1",
+        "percent_of_drivers_w_violations": "100"
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "charge_code": "59B-13(K)",
+    "chapter": "59B",
+    "part": "13",
+    "subpart": "Compliance with Law  Personal Conduct",
+    "section": "K",
+    "subsection": "Courtesy. A Licensee must be courteous to Passengers.",
+    "paragraph": "",
+    "subparagraph": "",
+    "clause": "",
+    "subclause": "",
+    "description": "Courtesy. A Licensee must be courteous to Passengers.",
+    "penalty": "",
+    "min_fine": "150",
+    "max_fine": "150",
+    "points": "0",
+    "source_url": "http://www.nyc.gov/html/tlc/downloads/pdf/2011rulebook_ch59.pdf",
+    "tlc_category": "Is rude",
+    "violations": {
+      "total_violations": "92",
+      "consumer_complaints_2012": "10",
+      "consumer_complaints_percentage_2012": "< 1",
+      "consumer_complaints_2013": "82",
+      "consumer_complaints_percentage_2013": "< 1",
+      "complaints_2012": "10",
+      "complaints_percentage_2012": "< 1",
+      "complaints_2013": "82",
+      "complaints_percentage_2013": "< 1",
+      "consumer_complaints_percentage_pay_summons": "43",
+      "consumer_complaints_percentage_trial": "32",
+      "consumer_complaints_percentage_guilty": "73"
+    },
+    "worst_drivers": [
+
+    ],
+    "worst_vehicles": [
+
+    ],
+    "worst_owners": [
+
+    ]
+  }
+]
